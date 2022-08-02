@@ -1,0 +1,120 @@
+county,date_range,number_samples_with_neonic,total_samples,neonics_found,percent_samples_containing_a_neonic,min_concentration,min_greater_than_o,median_concentration,max_concentration,acetamiprid,clothianidin,dinotefuran,imidacloprid,thiamethoxam
+Alameda,2014-03-18 - 2020-06-25,12,88,imidacloprid,13.64,0,NA,0,0,All Values 0,All Values 0,All Values 0,NA,All Values 0
+Alameda,2014-03-18 - 2020-06-25,12,88,imidacloprid,13.64,0,0.01,0,0.04,NA,NA,NA,0 - 0.04,NA
+Butte,2018-07-18 - 2020-09-09,0,22,,0,0,NA,0,0,All Values 0,All Values 0,All Values 0,All Values 0,All Values 0
+Calaveras,2019-05-09 - 2019-05-09,0,5,,0,0,NA,0,0,All Values 0,All Values 0,All Values 0,All Values 0,All Values 0
+Colusa,2007-09-18 - 2020-09-09,1,74,imidacloprid,1.35,0,NA,0,0,All Values 0,All Values 0,All Values 0,NA,All Values 0
+Colusa,2007-09-18 - 2020-09-09,1,74,imidacloprid,1.35,0,0.09,0,0.09,NA,NA,NA,0 - 0.09,NA
+Contra Costa,2001-04-17 - 2020-06-25,13,283,imidacloprid,4.59,0,NA,0,0,All Values 0,All Values 0,All Values 0,NA,All Values 0
+Contra Costa,2001-04-17 - 2020-06-25,13,283,imidacloprid,4.59,0,0.02,0,0.07,NA,NA,NA,0 - 0.07,NA
+Del Norte,2016-05-25 - 2016-07-26,2,3,imidacloprid,66.67,0,0.06,0.06,0.08,NA,NA,NA,0 - 0.08,NA
+El Dorado,2019-05-15 - 2019-12-10,0,20,,0,0,NA,0,0,All Values 0,All Values 0,All Values 0,All Values 0,All Values 0
+Fresno,2011-09-08 - 2019-08-05,0,50,,0,0,NA,0,0,NA,All Values 0,NA,All Values 0,All Values 0
+Glenn,2018-07-18 - 2018-08-22,0,2,,0,0,NA,0,0,All Values 0,NA,NA,NA,NA
+Imperial,2010-10-05 - 2020-10-29,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",54.61,0,NA,0,0,All Values 0,NA,NA,NA,NA
+Imperial,2010-10-05 - 2020-10-29,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",54.61,0,0,0,0.02,NA,0 - 0.02,NA,NA,NA
+Imperial,2010-10-05 - 2020-10-29,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",54.61,0,0.01,0,0.01,NA,NA,0 - 0.01,NA,NA
+Imperial,2010-10-05 - 2020-10-29,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",54.61,0,0.02,0.17,3.48,NA,NA,NA,0 - 3.48,NA
+Imperial,2010-10-05 - 2020-10-29,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",54.61,0,0,0,0,NA,NA,NA,NA,All Values 0
+Inyo,2004-03-17 - 2004-03-17,0,2,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
+Kings,2015-04-14 - 2016-11-30,3,30,"imidacloprid, clothianidin",10,0,NA,0,0,All Values 0,NA,All Values 0,NA,All Values 0
+Kings,2015-04-14 - 2016-11-30,3,30,"imidacloprid, clothianidin",10,0,0.01,0,0.01,NA,0 - 0.01,NA,NA,NA
+Kings,2015-04-14 - 2016-11-30,3,30,"imidacloprid, clothianidin",10,0,0,0,0.01,NA,NA,NA,0 - 0.01,NA
+Los Angeles,2004-05-10 - 2020-07-23,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",48.78,0,0.03,0,0.15,0 - 0.15,NA,NA,NA,NA
+Los Angeles,2004-05-10 - 2020-07-23,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",48.78,0,0.12,0,0.13,NA,0 - 0.13,NA,NA,NA
+Los Angeles,2004-05-10 - 2020-07-23,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",48.78,0,0.01,0,0.01,NA,NA,0 - 0.01,NA,NA
+Los Angeles,2004-05-10 - 2020-07-23,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",48.78,0,0.01,0.06,0.73,NA,NA,NA,0 - 0.73,NA
+Los Angeles,2004-05-10 - 2020-07-23,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",48.78,0,0,0,0.22,NA,NA,NA,NA,0 - 0.22
+Madera,2012-06-01 - 2019-09-05,0,11,,0,0,NA,0,0,All Values 0,All Values 0,NA,All Values 0,All Values 0
+Marin,2017-04-05 - 2017-05-11,0,19,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
+Mariposa,2003-07-29 - 2017-10-03,0,118,,0,0,NA,0,0,NA,All Values 0,NA,All Values 0,All Values 0
+Mendocino,2016-10-28 - 2016-10-28,0,10,,0,0,NA,0,0,All Values 0,All Values 0,All Values 0,All Values 0,All Values 0
+Merced,2001-10-09 - 2020-09-10,18,146,"clothianidin, acetamiprid, imidacloprid",12.33,0,0.03,0,0.11,0 - 0.11,NA,NA,NA,NA
+Merced,2001-10-09 - 2020-09-10,18,146,"clothianidin, acetamiprid, imidacloprid",12.33,0,0.01,0,0.36,NA,0 - 0.36,NA,NA,NA
+Merced,2001-10-09 - 2020-09-10,18,146,"clothianidin, acetamiprid, imidacloprid",12.33,0,0.02,0,0.02,NA,NA,NA,0 - 0.02,NA
+Merced,2001-10-09 - 2020-09-10,18,146,"clothianidin, acetamiprid, imidacloprid",12.33,0,NA,0,0,NA,NA,NA,NA,All Values 0
+Modoc,2016-05-24 - 2016-05-24,0,3,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
+Monterey,2010-05-17 - 2020-12-17,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",69.18,0,0,0.01,5.87,0 - 5.87,NA,NA,NA,NA
+Monterey,2010-05-17 - 2020-12-17,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",69.18,0,0.02,0,1.34,NA,0 - 1.34,NA,NA,NA
+Monterey,2010-05-17 - 2020-12-17,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",69.18,0,0.01,0,0.96,NA,NA,0 - 0.96,NA,NA
+Monterey,2010-05-17 - 2020-12-17,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",69.18,0,0.01,0.33,41.1,NA,NA,NA,0 - 41.1,NA
+Monterey,2010-05-17 - 2020-12-17,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",69.18,0,0.01,0.23,5,NA,NA,NA,NA,0 - 5
+Napa,2012-05-30 - 2017-05-10,0,27,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
+Orange,2000-02-12 - 2020-06-08,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",65.68,0,NA,0,0,All Values 0,NA,NA,NA,NA
+Orange,2000-02-12 - 2020-06-08,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",65.68,0,0.02,0,0.02,NA,0 - 0.02,NA,NA,NA
+Orange,2000-02-12 - 2020-06-08,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",65.68,0,0.01,0,0.01,NA,NA,0 - 0.01,NA,NA
+Orange,2000-02-12 - 2020-06-08,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",65.68,0,0.01,0.08,165,NA,NA,NA,0 - 165,NA
+Orange,2000-02-12 - 2020-06-08,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",65.68,0,0,0,1.03,NA,NA,NA,NA,0 - 1.03
+Placer,2011-06-27 - 2020-06-24,101,238,"dinotefuran, imidacloprid",42.44,0,NA,0,0,All Values 0,All Values 0,NA,NA,All Values 0
+Placer,2011-06-27 - 2020-06-24,101,238,"dinotefuran, imidacloprid",42.44,0,0.01,0,0.21,NA,NA,0 - 0.21,NA,NA
+Placer,2011-06-27 - 2020-06-24,101,238,"dinotefuran, imidacloprid",42.44,0,0,0.02,3.31,NA,NA,NA,0 - 3.31,NA
+Riverside,2010-01-20 - 2020-10-26,123,162,"imidacloprid, clothianidin, thiamethoxam, acetamiprid",75.93,0,0.01,0.01,0.01,0 - 0.01,NA,NA,NA,NA
+Riverside,2010-01-20 - 2020-10-26,123,162,"imidacloprid, clothianidin, thiamethoxam, acetamiprid",75.93,0,0,0,0,NA,All Values 0,NA,NA,All Values 0
+Riverside,2010-01-20 - 2020-10-26,123,162,"imidacloprid, clothianidin, thiamethoxam, acetamiprid",75.93,0,NA,0,0,NA,NA,All Values 0,NA,NA
+Riverside,2010-01-20 - 2020-10-26,123,162,"imidacloprid, clothianidin, thiamethoxam, acetamiprid",75.93,0,0.01,0.03,0.51,NA,NA,NA,0 - 0.51,NA
+Sacramento,2001-03-28 - 2020-09-30,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",6.4,0,NA,0,0,All Values 0,NA,NA,NA,NA
+Sacramento,2001-03-28 - 2020-09-30,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",6.4,0,0,0,0.01,NA,0 - 0.01,NA,NA,NA
+Sacramento,2001-03-28 - 2020-09-30,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",6.4,0,0.02,0,0.02,NA,NA,0 - 0.02,NA,NA
+Sacramento,2001-03-28 - 2020-09-30,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",6.4,0,0,0,1.84,NA,NA,NA,0 - 1.84,NA
+Sacramento,2001-03-28 - 2020-09-30,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",6.4,0,0.02,0,0.14,NA,NA,NA,NA,0 - 0.14
+San Benito,2017-03-16 - 2018-09-26,13,57,"imidacloprid, thiamethoxam, dinotefuran",22.81,0,NA,0,0,All Values 0,All Values 0,NA,NA,NA
+San Benito,2017-03-16 - 2018-09-26,13,57,"imidacloprid, thiamethoxam, dinotefuran",22.81,0,0.02,0,0.03,NA,NA,0 - 0.03,NA,NA
+San Benito,2017-03-16 - 2018-09-26,13,57,"imidacloprid, thiamethoxam, dinotefuran",22.81,0,0.03,0.03,0.1,NA,NA,NA,0 - 0.1,NA
+San Benito,2017-03-16 - 2018-09-26,13,57,"imidacloprid, thiamethoxam, dinotefuran",22.81,0,0.01,0.01,0.09,NA,NA,NA,NA,0 - 0.09
+San Bernardino,2000-03-14 - 2006-05-17,0,6,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
+San Diego,2002-03-20 - 2019-12-04,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",25.53,0,NA,0,0,All Values 0,NA,NA,NA,NA
+San Diego,2002-03-20 - 2019-12-04,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",25.53,0,0.01,0.01,0.1,NA,0 - 0.1,NA,NA,NA
+San Diego,2002-03-20 - 2019-12-04,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",25.53,0,0,0.06,1.89,NA,NA,0 - 1.89,NA,NA
+San Diego,2002-03-20 - 2019-12-04,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",25.53,0,0.02,0,0.26,NA,NA,NA,0 - 0.26,NA
+San Diego,2002-03-20 - 2019-12-04,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",25.53,0,0.03,0,0.33,NA,NA,NA,NA,0 - 0.33
+San Joaquin,2001-03-27 - 2020-07-22,51,1028,"imidacloprid, thiamethoxam, dinotefuran",4.96,0,NA,0,0,All Values 0,All Values 0,NA,NA,NA
+San Joaquin,2001-03-27 - 2020-07-22,51,1028,"imidacloprid, thiamethoxam, dinotefuran",4.96,0,0.01,0,0.03,NA,NA,0 - 0.03,NA,NA
+San Joaquin,2001-03-27 - 2020-07-22,51,1028,"imidacloprid, thiamethoxam, dinotefuran",4.96,0,0,0,0.24,NA,NA,NA,0 - 0.24,NA
+San Joaquin,2001-03-27 - 2020-07-22,51,1028,"imidacloprid, thiamethoxam, dinotefuran",4.96,0,0.01,0,0.01,NA,NA,NA,NA,0 - 0.01
+San Luis Obispo,2010-06-08 - 2020-09-22,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",40.89,0,0,0,0.92,0 - 0.92,NA,NA,NA,NA
+San Luis Obispo,2010-06-08 - 2020-09-22,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",40.89,0,0.01,0,0.02,NA,0 - 0.02,NA,NA,NA
+San Luis Obispo,2010-06-08 - 2020-09-22,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",40.89,0,0.01,0,0.45,NA,NA,0 - 0.45,NA,NA
+San Luis Obispo,2010-06-08 - 2020-09-22,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",40.89,0,0.02,0.06,51.83,NA,NA,NA,0 - 51.83,NA
+San Luis Obispo,2010-06-08 - 2020-09-22,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",40.89,0,0.01,0,4.83,NA,NA,NA,NA,0 - 4.83
+San Mateo,2017-03-16 - 2017-07-19,0,21,,0,0,NA,0,0,All Values 0,All Values 0,All Values 0,All Values 0,All Values 0
+Santa Barbara,2010-06-08 - 2020-09-22,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",39.33,0,0,0,1.83,0 - 1.83,NA,NA,NA,NA
+Santa Barbara,2010-06-08 - 2020-09-22,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",39.33,0,0,0,0.23,NA,0 - 0.23,NA,NA,NA
+Santa Barbara,2010-06-08 - 2020-09-22,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",39.33,0,0,0,0.85,NA,NA,0 - 0.85,NA,NA
+Santa Barbara,2010-06-08 - 2020-09-22,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",39.33,0,0.02,0.81,9.3,NA,NA,NA,0 - 9.3,NA
+Santa Barbara,2010-06-08 - 2020-09-22,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",39.33,0,0,0,1.46,NA,NA,NA,NA,0 - 1.46
+Santa Clara,2014-07-07 - 2020-06-23,14,186,"dinotefuran, imidacloprid, thiamethoxam",7.53,0,NA,0,0,All Values 0,All Values 0,NA,NA,NA
+Santa Clara,2014-07-07 - 2020-06-23,14,186,"dinotefuran, imidacloprid, thiamethoxam",7.53,0,0.01,0,0.01,NA,NA,0 - 0.01,NA,NA
+Santa Clara,2014-07-07 - 2020-06-23,14,186,"dinotefuran, imidacloprid, thiamethoxam",7.53,0,0,0,0.04,NA,NA,NA,0 - 0.04,NA
+Santa Clara,2014-07-07 - 2020-06-23,14,186,"dinotefuran, imidacloprid, thiamethoxam",7.53,0,0,0,0.08,NA,NA,NA,NA,0 - 0.08
+Santa Cruz,2011-04-26 - 2018-09-27,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",20,0,0.03,0,0.09,0 - 0.09,NA,NA,NA,NA
+Santa Cruz,2011-04-26 - 2018-09-27,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",20,0,0.03,0,0.16,NA,0 - 0.16,NA,NA,NA
+Santa Cruz,2011-04-26 - 2018-09-27,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",20,0,0.02,0,0.02,NA,NA,0 - 0.02,NA,NA
+Santa Cruz,2011-04-26 - 2018-09-27,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",20,0,0.02,0,0.12,NA,NA,NA,0 - 0.12,NA
+Santa Cruz,2011-04-26 - 2018-09-27,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",20,0,0,0,0.33,NA,NA,NA,NA,0 - 0.33
+Shasta,2015-08-19 - 2018-08-22,0,18,,0,0,NA,0,0,All Values 0,All Values 0,NA,All Values 0,All Values 0
+Siskiyou,2016-05-24 - 2016-05-24,0,3,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
+Solano,2011-04-05 - 2020-09-03,57,814,"clothianidin, imidacloprid, thiamethoxam, dinotefuran",7,0,NA,0,0,All Values 0,NA,NA,NA,NA
+Solano,2011-04-05 - 2020-09-03,57,814,"clothianidin, imidacloprid, thiamethoxam, dinotefuran",7,0,0,0,0.03,NA,0 - 0.03,NA,NA,0 - 0.03
+Solano,2011-04-05 - 2020-09-03,57,814,"clothianidin, imidacloprid, thiamethoxam, dinotefuran",7,0,0,0,0.02,NA,NA,0 - 0.02,NA,NA
+Solano,2011-04-05 - 2020-09-03,57,814,"clothianidin, imidacloprid, thiamethoxam, dinotefuran",7,0,0,0,0.1,NA,NA,NA,0 - 0.1,NA
+Sonoma,2012-05-29 - 2017-05-11,8,110,imidacloprid,7.27,0,NA,0,0,All Values 0,All Values 0,All Values 0,NA,All Values 0
+Sonoma,2012-05-29 - 2017-05-11,8,110,imidacloprid,7.27,0,0.01,0,0.06,NA,NA,NA,0 - 0.06,NA
+Stanislaus,2001-10-09 - 2020-09-10,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",29.73,0,0.01,0,0.03,0 - 0.03,NA,NA,NA,NA
+Stanislaus,2001-10-09 - 2020-09-10,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",29.73,0,0.01,0,0.01,NA,0 - 0.01,NA,NA,NA
+Stanislaus,2001-10-09 - 2020-09-10,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",29.73,0,NA,0,0,NA,NA,All Values 0,NA,NA
+Stanislaus,2001-10-09 - 2020-09-10,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",29.73,0,0.01,0,0.34,NA,NA,NA,0 - 0.34,NA
+Stanislaus,2001-10-09 - 2020-09-10,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",29.73,0,0,0,0.05,NA,NA,NA,NA,0 - 0.05
+Sutter,2001-03-28 - 2020-09-09,3,121,"imidacloprid, clothianidin",2.48,0,NA,0,0,All Values 0,NA,All Values 0,NA,All Values 0
+Sutter,2001-03-28 - 2020-09-09,3,121,"imidacloprid, clothianidin",2.48,0,0.01,0,0.01,NA,0 - 0.01,NA,NA,NA
+Sutter,2001-03-28 - 2020-09-09,3,121,"imidacloprid, clothianidin",2.48,0,0,0,0.01,NA,NA,NA,0 - 0.01,NA
+Tulare,2011-07-10 - 2019-10-16,0,493,,0,0,NA,0,0,NA,All Values 0,NA,All Values 0,All Values 0
+Tuolumne,2012-06-01 - 2017-10-03,0,29,,0,0,NA,0,0,NA,All Values 0,NA,All Values 0,All Values 0
+Ventura,2011-08-09 - 2020-07-29,4,44,"thiamethoxam, imidacloprid",9.09,0,NA,0,0,All Values 0,All Values 0,All Values 0,NA,NA
+Ventura,2011-08-09 - 2020-07-29,4,44,"thiamethoxam, imidacloprid",9.09,0,0.06,0.06,0.11,NA,NA,NA,0 - 0.11,NA
+Ventura,2011-08-09 - 2020-07-29,4,44,"thiamethoxam, imidacloprid",9.09,0,0,0,0,NA,NA,NA,NA,All Values 0
+Yolo,2015-06-03 - 2020-09-09,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",3.3,0,0.01,0,0.01,0 - 0.01,NA,NA,NA,NA
+Yolo,2015-06-03 - 2020-09-09,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",3.3,0,0.01,0,0.02,NA,0 - 0.02,NA,NA,NA
+Yolo,2015-06-03 - 2020-09-09,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",3.3,0,NA,0,0,NA,NA,All Values 0,NA,NA
+Yolo,2015-06-03 - 2020-09-09,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",3.3,0,0,0,0.03,NA,NA,NA,0 - 0.03,NA
+Yolo,2015-06-03 - 2020-09-09,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",3.3,0,0,0,0.01,NA,NA,NA,NA,0 - 0.01
+Yuba,2017-07-13 - 2018-09-06,0,10,,0,0,NA,0,0,NA,NA,NA,All Values 0,NA
