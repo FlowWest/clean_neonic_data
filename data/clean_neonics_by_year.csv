@@ -1,0 +1,751 @@
+year,county,neonic,count
+2000,Orange,Contains a Neonic,0
+2000,Orange,Does Not Contain a Neonic,4
+2000,Orange,Percent Contining Neonics,0
+2000,San Bernardino,Contains a Neonic,0
+2000,San Bernardino,Does Not Contain a Neonic,2
+2000,San Bernardino,Percent Contining Neonics,0
+2001,Contra Costa,Contains a Neonic,0
+2001,Contra Costa,Does Not Contain a Neonic,6
+2001,Contra Costa,Percent Contining Neonics,0
+2001,Merced,Contains a Neonic,0
+2001,Merced,Does Not Contain a Neonic,3
+2001,Merced,Percent Contining Neonics,0
+2001,Sacramento,Contains a Neonic,0
+2001,Sacramento,Does Not Contain a Neonic,15
+2001,Sacramento,Percent Contining Neonics,0
+2001,San Joaquin,Contains a Neonic,0
+2001,San Joaquin,Does Not Contain a Neonic,4
+2001,San Joaquin,Percent Contining Neonics,0
+2001,Stanislaus,Contains a Neonic,0
+2001,Stanislaus,Does Not Contain a Neonic,3
+2001,Stanislaus,Percent Contining Neonics,0
+2001,Sutter,Contains a Neonic,0
+2001,Sutter,Does Not Contain a Neonic,3
+2001,Sutter,Percent Contining Neonics,0
+2002,Merced,Contains a Neonic,0
+2002,Merced,Does Not Contain a Neonic,17
+2002,Merced,Percent Contining Neonics,0
+2002,San Diego,Contains a Neonic,0
+2002,San Diego,Does Not Contain a Neonic,8
+2002,San Diego,Percent Contining Neonics,0
+2002,San Joaquin,Contains a Neonic,0
+2002,San Joaquin,Does Not Contain a Neonic,17
+2002,San Joaquin,Percent Contining Neonics,0
+2002,Stanislaus,Contains a Neonic,0
+2002,Stanislaus,Does Not Contain a Neonic,17
+2002,Stanislaus,Percent Contining Neonics,0
+2003,Mariposa,Contains a Neonic,0
+2003,Mariposa,Does Not Contain a Neonic,1
+2003,Mariposa,Percent Contining Neonics,0
+2003,San Diego,Contains a Neonic,0
+2003,San Diego,Does Not Contain a Neonic,24
+2003,San Diego,Percent Contining Neonics,0
+2004,Inyo,Contains a Neonic,0
+2004,Inyo,Does Not Contain a Neonic,2
+2004,Inyo,Percent Contining Neonics,0
+2004,Los Angeles,Contains a Neonic,0
+2004,Los Angeles,Does Not Contain a Neonic,1
+2004,Los Angeles,Percent Contining Neonics,0
+2004,Sacramento,Contains a Neonic,2
+2004,Sacramento,Does Not Contain a Neonic,4
+2004,Sacramento,Percent Contining Neonics,33.33333333333333
+2004,San Bernardino,Contains a Neonic,0
+2004,San Bernardino,Does Not Contain a Neonic,3
+2004,San Bernardino,Percent Contining Neonics,0
+2004,San Diego,Contains a Neonic,0
+2004,San Diego,Does Not Contain a Neonic,8
+2004,San Diego,Percent Contining Neonics,0
+2005,Sacramento,Contains a Neonic,13
+2005,Sacramento,Does Not Contain a Neonic,4
+2005,Sacramento,Percent Contining Neonics,76.47058823529412
+2005,San Diego,Contains a Neonic,0
+2005,San Diego,Does Not Contain a Neonic,8
+2005,San Diego,Percent Contining Neonics,0
+2006,San Bernardino,Contains a Neonic,0
+2006,San Bernardino,Does Not Contain a Neonic,1
+2006,San Bernardino,Percent Contining Neonics,0
+2006,San Diego,Contains a Neonic,0
+2006,San Diego,Does Not Contain a Neonic,1
+2006,San Diego,Percent Contining Neonics,0
+2007,Colusa,Contains a Neonic,0
+2007,Colusa,Does Not Contain a Neonic,2
+2007,Colusa,Percent Contining Neonics,0
+2007,Sutter,Contains a Neonic,0
+2007,Sutter,Does Not Contain a Neonic,4
+2007,Sutter,Percent Contining Neonics,0
+2010,Imperial,Contains a Neonic,5
+2010,Imperial,Does Not Contain a Neonic,1
+2010,Imperial,Percent Contining Neonics,83.33333333333334
+2010,Monterey,Contains a Neonic,10
+2010,Monterey,Does Not Contain a Neonic,1
+2010,Monterey,Percent Contining Neonics,90.9090909090909
+2010,Orange,Contains a Neonic,12
+2010,Orange,Does Not Contain a Neonic,6
+2010,Orange,Percent Contining Neonics,66.66666666666666
+2010,Riverside,Contains a Neonic,0
+2010,Riverside,Does Not Contain a Neonic,14
+2010,Riverside,Percent Contining Neonics,0
+2010,San Joaquin,Contains a Neonic,0
+2010,San Joaquin,Does Not Contain a Neonic,15
+2010,San Joaquin,Percent Contining Neonics,0
+2010,San Luis Obispo,Contains a Neonic,1
+2010,San Luis Obispo,Does Not Contain a Neonic,0
+2010,San Luis Obispo,Percent Contining Neonics,100
+2010,Santa Barbara,Contains a Neonic,4
+2010,Santa Barbara,Does Not Contain a Neonic,0
+2010,Santa Barbara,Percent Contining Neonics,100
+2010,Stanislaus,Contains a Neonic,0
+2010,Stanislaus,Does Not Contain a Neonic,13
+2010,Stanislaus,Percent Contining Neonics,0
+2011,Contra Costa,Contains a Neonic,0
+2011,Contra Costa,Does Not Contain a Neonic,30
+2011,Contra Costa,Percent Contining Neonics,0
+2011,Fresno,Contains a Neonic,0
+2011,Fresno,Does Not Contain a Neonic,2
+2011,Fresno,Percent Contining Neonics,0
+2011,Imperial,Contains a Neonic,11
+2011,Imperial,Does Not Contain a Neonic,8
+2011,Imperial,Percent Contining Neonics,57.89473684210527
+2011,Merced,Contains a Neonic,0
+2011,Merced,Does Not Contain a Neonic,7
+2011,Merced,Percent Contining Neonics,0
+2011,Monterey,Contains a Neonic,29
+2011,Monterey,Does Not Contain a Neonic,8
+2011,Monterey,Percent Contining Neonics,78.37837837837837
+2011,Orange,Contains a Neonic,20
+2011,Orange,Does Not Contain a Neonic,15
+2011,Orange,Percent Contining Neonics,57.14285714285714
+2011,Placer,Contains a Neonic,8
+2011,Placer,Does Not Contain a Neonic,18
+2011,Placer,Percent Contining Neonics,30.76923076923077
+2011,Sacramento,Contains a Neonic,2
+2011,Sacramento,Does Not Contain a Neonic,37
+2011,Sacramento,Percent Contining Neonics,5.128205128205128
+2011,San Luis Obispo,Contains a Neonic,1
+2011,San Luis Obispo,Does Not Contain a Neonic,0
+2011,San Luis Obispo,Percent Contining Neonics,100
+2011,Santa Barbara,Contains a Neonic,9
+2011,Santa Barbara,Does Not Contain a Neonic,0
+2011,Santa Barbara,Percent Contining Neonics,100
+2011,Santa Cruz,Contains a Neonic,3
+2011,Santa Cruz,Does Not Contain a Neonic,5
+2011,Santa Cruz,Percent Contining Neonics,37.5
+2011,Solano,Contains a Neonic,0
+2011,Solano,Does Not Contain a Neonic,30
+2011,Solano,Percent Contining Neonics,0
+2011,Tulare,Contains a Neonic,0
+2011,Tulare,Does Not Contain a Neonic,26
+2011,Tulare,Percent Contining Neonics,0
+2011,Ventura,Contains a Neonic,3
+2011,Ventura,Does Not Contain a Neonic,1
+2011,Ventura,Percent Contining Neonics,75
+2012,Contra Costa,Contains a Neonic,0
+2012,Contra Costa,Does Not Contain a Neonic,150
+2012,Contra Costa,Percent Contining Neonics,0
+2012,Madera,Contains a Neonic,0
+2012,Madera,Does Not Contain a Neonic,2
+2012,Madera,Percent Contining Neonics,0
+2012,Mariposa,Contains a Neonic,0
+2012,Mariposa,Does Not Contain a Neonic,6
+2012,Mariposa,Percent Contining Neonics,0
+2012,Monterey,Contains a Neonic,45
+2012,Monterey,Does Not Contain a Neonic,7
+2012,Monterey,Percent Contining Neonics,86.53846153846155
+2012,Napa,Contains a Neonic,0
+2012,Napa,Does Not Contain a Neonic,2
+2012,Napa,Percent Contining Neonics,0
+2012,Orange,Contains a Neonic,26
+2012,Orange,Does Not Contain a Neonic,6
+2012,Orange,Percent Contining Neonics,81.25
+2012,Placer,Contains a Neonic,3
+2012,Placer,Does Not Contain a Neonic,8
+2012,Placer,Percent Contining Neonics,27.27272727272727
+2012,Riverside,Contains a Neonic,5
+2012,Riverside,Does Not Contain a Neonic,2
+2012,Riverside,Percent Contining Neonics,71.42857142857143
+2012,Sacramento,Contains a Neonic,6
+2012,Sacramento,Does Not Contain a Neonic,160
+2012,Sacramento,Percent Contining Neonics,3.614457831325301
+2012,San Joaquin,Contains a Neonic,0
+2012,San Joaquin,Does Not Contain a Neonic,104
+2012,San Joaquin,Percent Contining Neonics,0
+2012,San Luis Obispo,Contains a Neonic,4
+2012,San Luis Obispo,Does Not Contain a Neonic,4
+2012,San Luis Obispo,Percent Contining Neonics,50
+2012,Santa Barbara,Contains a Neonic,6
+2012,Santa Barbara,Does Not Contain a Neonic,0
+2012,Santa Barbara,Percent Contining Neonics,100
+2012,Santa Cruz,Contains a Neonic,1
+2012,Santa Cruz,Does Not Contain a Neonic,0
+2012,Santa Cruz,Percent Contining Neonics,100
+2012,Solano,Contains a Neonic,0
+2012,Solano,Does Not Contain a Neonic,90
+2012,Solano,Percent Contining Neonics,0
+2012,Sonoma,Contains a Neonic,0
+2012,Sonoma,Does Not Contain a Neonic,9
+2012,Sonoma,Percent Contining Neonics,0
+2012,Stanislaus,Contains a Neonic,2
+2012,Stanislaus,Does Not Contain a Neonic,0
+2012,Stanislaus,Percent Contining Neonics,100
+2012,Tulare,Contains a Neonic,0
+2012,Tulare,Does Not Contain a Neonic,6
+2012,Tulare,Percent Contining Neonics,0
+2012,Tuolumne,Contains a Neonic,0
+2012,Tuolumne,Does Not Contain a Neonic,2
+2012,Tuolumne,Percent Contining Neonics,0
+2013,Colusa,Contains a Neonic,0
+2013,Colusa,Does Not Contain a Neonic,6
+2013,Colusa,Percent Contining Neonics,0
+2013,Imperial,Contains a Neonic,2
+2013,Imperial,Does Not Contain a Neonic,4
+2013,Imperial,Percent Contining Neonics,33.33333333333333
+2013,Mariposa,Contains a Neonic,0
+2013,Mariposa,Does Not Contain a Neonic,21
+2013,Mariposa,Percent Contining Neonics,0
+2013,Monterey,Contains a Neonic,27
+2013,Monterey,Does Not Contain a Neonic,5
+2013,Monterey,Percent Contining Neonics,84.375
+2013,Orange,Contains a Neonic,22
+2013,Orange,Does Not Contain a Neonic,9
+2013,Orange,Percent Contining Neonics,70.96774193548387
+2013,Placer,Contains a Neonic,11
+2013,Placer,Does Not Contain a Neonic,12
+2013,Placer,Percent Contining Neonics,47.82608695652174
+2013,Riverside,Contains a Neonic,17
+2013,Riverside,Does Not Contain a Neonic,0
+2013,Riverside,Percent Contining Neonics,100
+2013,Sacramento,Contains a Neonic,4
+2013,Sacramento,Does Not Contain a Neonic,118
+2013,Sacramento,Percent Contining Neonics,3.278688524590164
+2013,San Joaquin,Contains a Neonic,3
+2013,San Joaquin,Does Not Contain a Neonic,63
+2013,San Joaquin,Percent Contining Neonics,4.545454545454546
+2013,San Luis Obispo,Contains a Neonic,4
+2013,San Luis Obispo,Does Not Contain a Neonic,3
+2013,San Luis Obispo,Percent Contining Neonics,57.14285714285714
+2013,Santa Barbara,Contains a Neonic,12
+2013,Santa Barbara,Does Not Contain a Neonic,0
+2013,Santa Barbara,Percent Contining Neonics,100
+2013,Stanislaus,Contains a Neonic,6
+2013,Stanislaus,Does Not Contain a Neonic,4
+2013,Stanislaus,Percent Contining Neonics,60
+2013,Tulare,Contains a Neonic,0
+2013,Tulare,Does Not Contain a Neonic,54
+2013,Tulare,Percent Contining Neonics,0
+2013,Tuolumne,Contains a Neonic,0
+2013,Tuolumne,Does Not Contain a Neonic,3
+2013,Tuolumne,Percent Contining Neonics,0
+2014,Alameda,Contains a Neonic,1
+2014,Alameda,Does Not Contain a Neonic,2
+2014,Alameda,Percent Contining Neonics,33.33333333333333
+2014,Contra Costa,Contains a Neonic,0
+2014,Contra Costa,Does Not Contain a Neonic,5
+2014,Contra Costa,Percent Contining Neonics,0
+2014,Fresno,Contains a Neonic,0
+2014,Fresno,Does Not Contain a Neonic,12
+2014,Fresno,Percent Contining Neonics,0
+2014,Imperial,Contains a Neonic,7
+2014,Imperial,Does Not Contain a Neonic,2
+2014,Imperial,Percent Contining Neonics,77.77777777777779
+2014,Los Angeles,Contains a Neonic,6
+2014,Los Angeles,Does Not Contain a Neonic,1
+2014,Los Angeles,Percent Contining Neonics,85.71428571428571
+2014,Mariposa,Contains a Neonic,0
+2014,Mariposa,Does Not Contain a Neonic,30
+2014,Mariposa,Percent Contining Neonics,0
+2014,Monterey,Contains a Neonic,33
+2014,Monterey,Does Not Contain a Neonic,5
+2014,Monterey,Percent Contining Neonics,86.8421052631579
+2014,Orange,Contains a Neonic,29
+2014,Orange,Does Not Contain a Neonic,6
+2014,Orange,Percent Contining Neonics,82.85714285714286
+2014,Placer,Contains a Neonic,9
+2014,Placer,Does Not Contain a Neonic,15
+2014,Placer,Percent Contining Neonics,37.5
+2014,Riverside,Contains a Neonic,10
+2014,Riverside,Does Not Contain a Neonic,13
+2014,Riverside,Percent Contining Neonics,43.47826086956522
+2014,Sacramento,Contains a Neonic,1
+2014,Sacramento,Does Not Contain a Neonic,27
+2014,Sacramento,Percent Contining Neonics,3.571428571428571
+2014,San Diego,Contains a Neonic,2
+2014,San Diego,Does Not Contain a Neonic,2
+2014,San Diego,Percent Contining Neonics,50
+2014,San Joaquin,Contains a Neonic,1
+2014,San Joaquin,Does Not Contain a Neonic,16
+2014,San Joaquin,Percent Contining Neonics,5.88235294117647
+2014,San Luis Obispo,Contains a Neonic,4
+2014,San Luis Obispo,Does Not Contain a Neonic,0
+2014,San Luis Obispo,Percent Contining Neonics,100
+2014,Santa Barbara,Contains a Neonic,13
+2014,Santa Barbara,Does Not Contain a Neonic,0
+2014,Santa Barbara,Percent Contining Neonics,100
+2014,Santa Clara,Contains a Neonic,0
+2014,Santa Clara,Does Not Contain a Neonic,4
+2014,Santa Clara,Percent Contining Neonics,0
+2014,Stanislaus,Contains a Neonic,2
+2014,Stanislaus,Does Not Contain a Neonic,1
+2014,Stanislaus,Percent Contining Neonics,66.66666666666666
+2014,Tulare,Contains a Neonic,0
+2014,Tulare,Does Not Contain a Neonic,93
+2014,Tulare,Percent Contining Neonics,0
+2014,Tuolumne,Contains a Neonic,0
+2014,Tuolumne,Does Not Contain a Neonic,6
+2014,Tuolumne,Percent Contining Neonics,0
+2015,Imperial,Contains a Neonic,8
+2015,Imperial,Does Not Contain a Neonic,1
+2015,Imperial,Percent Contining Neonics,88.88888888888889
+2015,Kings,Contains a Neonic,2
+2015,Kings,Does Not Contain a Neonic,13
+2015,Kings,Percent Contining Neonics,13.333333333333334
+2015,Los Angeles,Contains a Neonic,10
+2015,Los Angeles,Does Not Contain a Neonic,2
+2015,Los Angeles,Percent Contining Neonics,83.33333333333334
+2015,Mariposa,Contains a Neonic,0
+2015,Mariposa,Does Not Contain a Neonic,27
+2015,Mariposa,Percent Contining Neonics,0
+2015,Monterey,Contains a Neonic,54
+2015,Monterey,Does Not Contain a Neonic,15
+2015,Monterey,Percent Contining Neonics,78.26086956521739
+2015,Orange,Contains a Neonic,19
+2015,Orange,Does Not Contain a Neonic,14
+2015,Orange,Percent Contining Neonics,57.57575757575758
+2015,Placer,Contains a Neonic,5
+2015,Placer,Does Not Contain a Neonic,20
+2015,Placer,Percent Contining Neonics,20
+2015,Riverside,Contains a Neonic,14
+2015,Riverside,Does Not Contain a Neonic,3
+2015,Riverside,Percent Contining Neonics,82.35294117647058
+2015,Sacramento,Contains a Neonic,8
+2015,Sacramento,Does Not Contain a Neonic,81
+2015,Sacramento,Percent Contining Neonics,8.98876404494382
+2015,San Diego,Contains a Neonic,4
+2015,San Diego,Does Not Contain a Neonic,9
+2015,San Diego,Percent Contining Neonics,30.76923076923077
+2015,San Joaquin,Contains a Neonic,6
+2015,San Joaquin,Does Not Contain a Neonic,182
+2015,San Joaquin,Percent Contining Neonics,3.1914893617021276
+2015,San Luis Obispo,Contains a Neonic,9
+2015,San Luis Obispo,Does Not Contain a Neonic,9
+2015,San Luis Obispo,Percent Contining Neonics,50
+2015,Santa Barbara,Contains a Neonic,11
+2015,Santa Barbara,Does Not Contain a Neonic,0
+2015,Santa Barbara,Percent Contining Neonics,100
+2015,Santa Clara,Contains a Neonic,0
+2015,Santa Clara,Does Not Contain a Neonic,5
+2015,Santa Clara,Percent Contining Neonics,0
+2015,Shasta,Contains a Neonic,0
+2015,Shasta,Does Not Contain a Neonic,12
+2015,Shasta,Percent Contining Neonics,0
+2015,Solano,Contains a Neonic,6
+2015,Solano,Does Not Contain a Neonic,102
+2015,Solano,Percent Contining Neonics,5.555555555555555
+2015,Stanislaus,Contains a Neonic,5
+2015,Stanislaus,Does Not Contain a Neonic,6
+2015,Stanislaus,Percent Contining Neonics,45.45454545454545
+2015,Sutter,Contains a Neonic,0
+2015,Sutter,Does Not Contain a Neonic,10
+2015,Sutter,Percent Contining Neonics,0
+2015,Tulare,Contains a Neonic,0
+2015,Tulare,Does Not Contain a Neonic,104
+2015,Tulare,Percent Contining Neonics,0
+2015,Tuolumne,Contains a Neonic,0
+2015,Tuolumne,Does Not Contain a Neonic,9
+2015,Tuolumne,Percent Contining Neonics,0
+2015,Yolo,Contains a Neonic,0
+2015,Yolo,Does Not Contain a Neonic,75
+2015,Yolo,Percent Contining Neonics,0
+2016,Alameda,Contains a Neonic,1
+2016,Alameda,Does Not Contain a Neonic,1
+2016,Alameda,Percent Contining Neonics,50
+2016,Contra Costa,Contains a Neonic,1
+2016,Contra Costa,Does Not Contain a Neonic,1
+2016,Contra Costa,Percent Contining Neonics,50
+2016,Del Norte,Contains a Neonic,2
+2016,Del Norte,Does Not Contain a Neonic,1
+2016,Del Norte,Percent Contining Neonics,66.66666666666666
+2016,Imperial,Contains a Neonic,8
+2016,Imperial,Does Not Contain a Neonic,0
+2016,Imperial,Percent Contining Neonics,100
+2016,Kings,Contains a Neonic,1
+2016,Kings,Does Not Contain a Neonic,14
+2016,Kings,Percent Contining Neonics,6.666666666666667
+2016,Los Angeles,Contains a Neonic,8
+2016,Los Angeles,Does Not Contain a Neonic,5
+2016,Los Angeles,Percent Contining Neonics,61.53846153846154
+2016,Mariposa,Contains a Neonic,0
+2016,Mariposa,Does Not Contain a Neonic,24
+2016,Mariposa,Percent Contining Neonics,0
+2016,Mendocino,Contains a Neonic,0
+2016,Mendocino,Does Not Contain a Neonic,10
+2016,Mendocino,Percent Contining Neonics,0
+2016,Modoc,Contains a Neonic,0
+2016,Modoc,Does Not Contain a Neonic,3
+2016,Modoc,Percent Contining Neonics,0
+2016,Monterey,Contains a Neonic,39
+2016,Monterey,Does Not Contain a Neonic,6
+2016,Monterey,Percent Contining Neonics,86.66666666666667
+2016,Orange,Contains a Neonic,34
+2016,Orange,Does Not Contain a Neonic,20
+2016,Orange,Percent Contining Neonics,62.96296296296296
+2016,Placer,Contains a Neonic,16
+2016,Placer,Does Not Contain a Neonic,21
+2016,Placer,Percent Contining Neonics,43.24324324324324
+2016,Riverside,Contains a Neonic,13
+2016,Riverside,Does Not Contain a Neonic,3
+2016,Riverside,Percent Contining Neonics,81.25
+2016,Sacramento,Contains a Neonic,18
+2016,Sacramento,Does Not Contain a Neonic,213
+2016,Sacramento,Percent Contining Neonics,7.792207792207792
+2016,San Diego,Contains a Neonic,23
+2016,San Diego,Does Not Contain a Neonic,31
+2016,San Diego,Percent Contining Neonics,42.592592592592595
+2016,San Joaquin,Contains a Neonic,23
+2016,San Joaquin,Does Not Contain a Neonic,332
+2016,San Joaquin,Percent Contining Neonics,6.478873239436619
+2016,San Luis Obispo,Contains a Neonic,9
+2016,San Luis Obispo,Does Not Contain a Neonic,9
+2016,San Luis Obispo,Percent Contining Neonics,50
+2016,Santa Barbara,Contains a Neonic,9
+2016,Santa Barbara,Does Not Contain a Neonic,35
+2016,Santa Barbara,Percent Contining Neonics,20.454545454545457
+2016,Santa Clara,Contains a Neonic,1
+2016,Santa Clara,Does Not Contain a Neonic,15
+2016,Santa Clara,Percent Contining Neonics,6.25
+2016,Shasta,Contains a Neonic,0
+2016,Shasta,Does Not Contain a Neonic,3
+2016,Shasta,Percent Contining Neonics,0
+2016,Siskiyou,Contains a Neonic,0
+2016,Siskiyou,Does Not Contain a Neonic,3
+2016,Siskiyou,Percent Contining Neonics,0
+2016,Solano,Contains a Neonic,22
+2016,Solano,Does Not Contain a Neonic,131
+2016,Solano,Percent Contining Neonics,14.37908496732026
+2016,Sonoma,Contains a Neonic,1
+2016,Sonoma,Does Not Contain a Neonic,14
+2016,Sonoma,Percent Contining Neonics,6.666666666666667
+2016,Stanislaus,Contains a Neonic,8
+2016,Stanislaus,Does Not Contain a Neonic,11
+2016,Stanislaus,Percent Contining Neonics,42.10526315789473
+2016,Sutter,Contains a Neonic,3
+2016,Sutter,Does Not Contain a Neonic,77
+2016,Sutter,Percent Contining Neonics,3.75
+2016,Tulare,Contains a Neonic,0
+2016,Tulare,Does Not Contain a Neonic,69
+2016,Tulare,Percent Contining Neonics,0
+2016,Tuolumne,Contains a Neonic,0
+2016,Tuolumne,Does Not Contain a Neonic,6
+2016,Tuolumne,Percent Contining Neonics,0
+2016,Yolo,Contains a Neonic,3
+2016,Yolo,Does Not Contain a Neonic,134
+2016,Yolo,Percent Contining Neonics,2.18978102189781
+2017,Alameda,Contains a Neonic,3
+2017,Alameda,Does Not Contain a Neonic,52
+2017,Alameda,Percent Contining Neonics,5.454545454545454
+2017,Colusa,Contains a Neonic,0
+2017,Colusa,Does Not Contain a Neonic,6
+2017,Colusa,Percent Contining Neonics,0
+2017,Contra Costa,Contains a Neonic,7
+2017,Contra Costa,Does Not Contain a Neonic,58
+2017,Contra Costa,Percent Contining Neonics,10.76923076923077
+2017,Imperial,Contains a Neonic,8
+2017,Imperial,Does Not Contain a Neonic,0
+2017,Imperial,Percent Contining Neonics,100
+2017,Los Angeles,Contains a Neonic,12
+2017,Los Angeles,Does Not Contain a Neonic,1
+2017,Los Angeles,Percent Contining Neonics,92.3076923076923
+2017,Madera,Contains a Neonic,0
+2017,Madera,Does Not Contain a Neonic,1
+2017,Madera,Percent Contining Neonics,0
+2017,Marin,Contains a Neonic,0
+2017,Marin,Does Not Contain a Neonic,19
+2017,Marin,Percent Contining Neonics,0
+2017,Mariposa,Contains a Neonic,0
+2017,Mariposa,Does Not Contain a Neonic,9
+2017,Mariposa,Percent Contining Neonics,0
+2017,Merced,Contains a Neonic,0
+2017,Merced,Does Not Contain a Neonic,2
+2017,Merced,Percent Contining Neonics,0
+2017,Monterey,Contains a Neonic,91
+2017,Monterey,Does Not Contain a Neonic,96
+2017,Monterey,Percent Contining Neonics,48.663101604278076
+2017,Napa,Contains a Neonic,0
+2017,Napa,Does Not Contain a Neonic,25
+2017,Napa,Percent Contining Neonics,0
+2017,Orange,Contains a Neonic,20
+2017,Orange,Does Not Contain a Neonic,0
+2017,Orange,Percent Contining Neonics,100
+2017,Placer,Contains a Neonic,16
+2017,Placer,Does Not Contain a Neonic,3
+2017,Placer,Percent Contining Neonics,84.21052631578947
+2017,Riverside,Contains a Neonic,16
+2017,Riverside,Does Not Contain a Neonic,1
+2017,Riverside,Percent Contining Neonics,94.11764705882352
+2017,Sacramento,Contains a Neonic,5
+2017,Sacramento,Does Not Contain a Neonic,100
+2017,Sacramento,Percent Contining Neonics,4.761904761904762
+2017,San Benito,Contains a Neonic,7
+2017,San Benito,Does Not Contain a Neonic,26
+2017,San Benito,Percent Contining Neonics,21.21212121212121
+2017,San Diego,Contains a Neonic,1
+2017,San Diego,Does Not Contain a Neonic,3
+2017,San Diego,Percent Contining Neonics,25
+2017,San Joaquin,Contains a Neonic,6
+2017,San Joaquin,Does Not Contain a Neonic,173
+2017,San Joaquin,Percent Contining Neonics,3.35195530726257
+2017,San Luis Obispo,Contains a Neonic,14
+2017,San Luis Obispo,Does Not Contain a Neonic,56
+2017,San Luis Obispo,Percent Contining Neonics,20
+2017,San Mateo,Contains a Neonic,0
+2017,San Mateo,Does Not Contain a Neonic,21
+2017,San Mateo,Percent Contining Neonics,0
+2017,Santa Barbara,Contains a Neonic,34
+2017,Santa Barbara,Does Not Contain a Neonic,86
+2017,Santa Barbara,Percent Contining Neonics,28.333333333333332
+2017,Santa Clara,Contains a Neonic,4
+2017,Santa Clara,Does Not Contain a Neonic,109
+2017,Santa Clara,Percent Contining Neonics,3.5398230088495577
+2017,Santa Cruz,Contains a Neonic,7
+2017,Santa Cruz,Does Not Contain a Neonic,57
+2017,Santa Cruz,Percent Contining Neonics,10.9375
+2017,Solano,Contains a Neonic,9
+2017,Solano,Does Not Contain a Neonic,166
+2017,Solano,Percent Contining Neonics,5.142857142857142
+2017,Sonoma,Contains a Neonic,7
+2017,Sonoma,Does Not Contain a Neonic,79
+2017,Sonoma,Percent Contining Neonics,8.13953488372093
+2017,Stanislaus,Contains a Neonic,4
+2017,Stanislaus,Does Not Contain a Neonic,6
+2017,Stanislaus,Percent Contining Neonics,40
+2017,Tulare,Contains a Neonic,0
+2017,Tulare,Does Not Contain a Neonic,54
+2017,Tulare,Percent Contining Neonics,0
+2017,Tuolumne,Contains a Neonic,0
+2017,Tuolumne,Does Not Contain a Neonic,3
+2017,Tuolumne,Percent Contining Neonics,0
+2017,Yolo,Contains a Neonic,9
+2017,Yolo,Does Not Contain a Neonic,140
+2017,Yolo,Percent Contining Neonics,6.0402684563758395
+2017,Yuba,Contains a Neonic,0
+2017,Yuba,Does Not Contain a Neonic,4
+2017,Yuba,Percent Contining Neonics,0
+2018,Alameda,Contains a Neonic,1
+2018,Alameda,Does Not Contain a Neonic,4
+2018,Alameda,Percent Contining Neonics,20
+2018,Butte,Contains a Neonic,0
+2018,Butte,Does Not Contain a Neonic,7
+2018,Butte,Percent Contining Neonics,0
+2018,Colusa,Contains a Neonic,0
+2018,Colusa,Does Not Contain a Neonic,10
+2018,Colusa,Percent Contining Neonics,0
+2018,Contra Costa,Contains a Neonic,0
+2018,Contra Costa,Does Not Contain a Neonic,3
+2018,Contra Costa,Percent Contining Neonics,0
+2018,Fresno,Contains a Neonic,0
+2018,Fresno,Does Not Contain a Neonic,27
+2018,Fresno,Percent Contining Neonics,0
+2018,Glenn,Contains a Neonic,0
+2018,Glenn,Does Not Contain a Neonic,2
+2018,Glenn,Percent Contining Neonics,0
+2018,Imperial,Contains a Neonic,12
+2018,Imperial,Does Not Contain a Neonic,0
+2018,Imperial,Percent Contining Neonics,100
+2018,Los Angeles,Contains a Neonic,25
+2018,Los Angeles,Does Not Contain a Neonic,25
+2018,Los Angeles,Percent Contining Neonics,50
+2018,Merced,Contains a Neonic,6
+2018,Merced,Does Not Contain a Neonic,18
+2018,Merced,Percent Contining Neonics,25
+2018,Monterey,Contains a Neonic,111
+2018,Monterey,Does Not Contain a Neonic,84
+2018,Monterey,Percent Contining Neonics,56.92307692307692
+2018,Orange,Contains a Neonic,31
+2018,Orange,Does Not Contain a Neonic,2
+2018,Orange,Percent Contining Neonics,93.93939393939394
+2018,Placer,Contains a Neonic,12
+2018,Placer,Does Not Contain a Neonic,3
+2018,Placer,Percent Contining Neonics,80
+2018,Riverside,Contains a Neonic,17
+2018,Riverside,Does Not Contain a Neonic,0
+2018,Riverside,Percent Contining Neonics,100
+2018,Sacramento,Contains a Neonic,2
+2018,Sacramento,Does Not Contain a Neonic,72
+2018,Sacramento,Percent Contining Neonics,2.7027027027027026
+2018,San Benito,Contains a Neonic,6
+2018,San Benito,Does Not Contain a Neonic,18
+2018,San Benito,Percent Contining Neonics,25
+2018,San Diego,Contains a Neonic,3
+2018,San Diego,Does Not Contain a Neonic,2
+2018,San Diego,Percent Contining Neonics,60
+2018,San Joaquin,Contains a Neonic,4
+2018,San Joaquin,Does Not Contain a Neonic,26
+2018,San Joaquin,Percent Contining Neonics,13.333333333333334
+2018,San Luis Obispo,Contains a Neonic,16
+2018,San Luis Obispo,Does Not Contain a Neonic,36
+2018,San Luis Obispo,Percent Contining Neonics,30.76923076923077
+2018,Santa Barbara,Contains a Neonic,43
+2018,Santa Barbara,Does Not Contain a Neonic,88
+2018,Santa Barbara,Percent Contining Neonics,32.82442748091603
+2018,Santa Clara,Contains a Neonic,5
+2018,Santa Clara,Does Not Contain a Neonic,19
+2018,Santa Clara,Percent Contining Neonics,20.833333333333336
+2018,Santa Cruz,Contains a Neonic,13
+2018,Santa Cruz,Does Not Contain a Neonic,34
+2018,Santa Cruz,Percent Contining Neonics,27.659574468085108
+2018,Shasta,Contains a Neonic,0
+2018,Shasta,Does Not Contain a Neonic,3
+2018,Shasta,Percent Contining Neonics,0
+2018,Solano,Contains a Neonic,7
+2018,Solano,Does Not Contain a Neonic,112
+2018,Solano,Percent Contining Neonics,5.88235294117647
+2018,Sutter,Contains a Neonic,0
+2018,Sutter,Does Not Contain a Neonic,9
+2018,Sutter,Percent Contining Neonics,0
+2018,Tulare,Contains a Neonic,0
+2018,Tulare,Does Not Contain a Neonic,33
+2018,Tulare,Percent Contining Neonics,0
+2018,Ventura,Contains a Neonic,0
+2018,Ventura,Does Not Contain a Neonic,20
+2018,Ventura,Percent Contining Neonics,0
+2018,Yolo,Contains a Neonic,9
+2018,Yolo,Does Not Contain a Neonic,148
+2018,Yolo,Percent Contining Neonics,5.7324840764331215
+2018,Yuba,Contains a Neonic,0
+2018,Yuba,Does Not Contain a Neonic,6
+2018,Yuba,Percent Contining Neonics,0
+2019,Alameda,Contains a Neonic,3
+2019,Alameda,Does Not Contain a Neonic,8
+2019,Alameda,Percent Contining Neonics,27.27272727272727
+2019,Calaveras,Contains a Neonic,0
+2019,Calaveras,Does Not Contain a Neonic,5
+2019,Calaveras,Percent Contining Neonics,0
+2019,Colusa,Contains a Neonic,0
+2019,Colusa,Does Not Contain a Neonic,20
+2019,Colusa,Percent Contining Neonics,0
+2019,Contra Costa,Contains a Neonic,2
+2019,Contra Costa,Does Not Contain a Neonic,5
+2019,Contra Costa,Percent Contining Neonics,28.57142857142857
+2019,El Dorado,Contains a Neonic,0
+2019,El Dorado,Does Not Contain a Neonic,20
+2019,El Dorado,Percent Contining Neonics,0
+2019,Fresno,Contains a Neonic,0
+2019,Fresno,Does Not Contain a Neonic,9
+2019,Fresno,Percent Contining Neonics,0
+2019,Imperial,Contains a Neonic,12
+2019,Imperial,Does Not Contain a Neonic,12
+2019,Imperial,Percent Contining Neonics,50
+2019,Los Angeles,Contains a Neonic,29
+2019,Los Angeles,Does Not Contain a Neonic,28
+2019,Los Angeles,Percent Contining Neonics,50.877192982456144
+2019,Madera,Contains a Neonic,0
+2019,Madera,Does Not Contain a Neonic,8
+2019,Madera,Percent Contining Neonics,0
+2019,Merced,Contains a Neonic,6
+2019,Merced,Does Not Contain a Neonic,31
+2019,Merced,Percent Contining Neonics,16.216216216216218
+2019,Monterey,Contains a Neonic,62
+2019,Monterey,Does Not Contain a Neonic,7
+2019,Monterey,Percent Contining Neonics,89.85507246376811
+2019,Orange,Contains a Neonic,34
+2019,Orange,Does Not Contain a Neonic,31
+2019,Orange,Percent Contining Neonics,52.307692307692314
+2019,Placer,Contains a Neonic,14
+2019,Placer,Does Not Contain a Neonic,20
+2019,Placer,Percent Contining Neonics,41.17647058823529
+2019,Riverside,Contains a Neonic,16
+2019,Riverside,Does Not Contain a Neonic,0
+2019,Riverside,Percent Contining Neonics,100
+2019,Sacramento,Contains a Neonic,9
+2019,Sacramento,Does Not Contain a Neonic,195
+2019,Sacramento,Percent Contining Neonics,4.411764705882353
+2019,San Diego,Contains a Neonic,3
+2019,San Diego,Does Not Contain a Neonic,9
+2019,San Diego,Percent Contining Neonics,25
+2019,San Joaquin,Contains a Neonic,7
+2019,San Joaquin,Does Not Contain a Neonic,36
+2019,San Joaquin,Percent Contining Neonics,16.27906976744186
+2019,San Luis Obispo,Contains a Neonic,13
+2019,San Luis Obispo,Does Not Contain a Neonic,2
+2019,San Luis Obispo,Percent Contining Neonics,86.66666666666667
+2019,Santa Barbara,Contains a Neonic,27
+2019,Santa Barbara,Does Not Contain a Neonic,18
+2019,Santa Barbara,Percent Contining Neonics,60
+2019,Santa Clara,Contains a Neonic,2
+2019,Santa Clara,Does Not Contain a Neonic,10
+2019,Santa Clara,Percent Contining Neonics,16.666666666666664
+2019,Solano,Contains a Neonic,13
+2019,Solano,Does Not Contain a Neonic,122
+2019,Solano,Percent Contining Neonics,9.62962962962963
+2019,Stanislaus,Contains a Neonic,2
+2019,Stanislaus,Does Not Contain a Neonic,6
+2019,Stanislaus,Percent Contining Neonics,25
+2019,Tulare,Contains a Neonic,0
+2019,Tulare,Does Not Contain a Neonic,54
+2019,Tulare,Percent Contining Neonics,0
+2019,Yolo,Contains a Neonic,4
+2019,Yolo,Does Not Contain a Neonic,196
+2019,Yolo,Percent Contining Neonics,2
+2020,Alameda,Contains a Neonic,3
+2020,Alameda,Does Not Contain a Neonic,9
+2020,Alameda,Percent Contining Neonics,25
+2020,Butte,Contains a Neonic,0
+2020,Butte,Does Not Contain a Neonic,15
+2020,Butte,Percent Contining Neonics,0
+2020,Colusa,Contains a Neonic,1
+2020,Colusa,Does Not Contain a Neonic,29
+2020,Colusa,Percent Contining Neonics,3.3333333333333335
+2020,Contra Costa,Contains a Neonic,3
+2020,Contra Costa,Does Not Contain a Neonic,12
+2020,Contra Costa,Percent Contining Neonics,20
+2020,Imperial,Contains a Neonic,10
+2020,Imperial,Does Not Contain a Neonic,41
+2020,Imperial,Percent Contining Neonics,19.607843137254903
+2020,Los Angeles,Contains a Neonic,10
+2020,Los Angeles,Does Not Contain a Neonic,42
+2020,Los Angeles,Percent Contining Neonics,19.230769230769234
+2020,Merced,Contains a Neonic,6
+2020,Merced,Does Not Contain a Neonic,50
+2020,Merced,Percent Contining Neonics,10.714285714285714
+2020,Monterey,Contains a Neonic,49
+2020,Monterey,Does Not Contain a Neonic,11
+2020,Monterey,Percent Contining Neonics,81.66666666666667
+2020,Orange,Contains a Neonic,19
+2020,Orange,Does Not Contain a Neonic,26
+2020,Orange,Percent Contining Neonics,42.22222222222222
+2020,Placer,Contains a Neonic,7
+2020,Placer,Does Not Contain a Neonic,17
+2020,Placer,Percent Contining Neonics,29.166666666666668
+2020,Riverside,Contains a Neonic,15
+2020,Riverside,Does Not Contain a Neonic,3
+2020,Riverside,Percent Contining Neonics,83.33333333333334
+2020,Sacramento,Contains a Neonic,3
+2020,Sacramento,Does Not Contain a Neonic,41
+2020,Sacramento,Percent Contining Neonics,6.8181818181818175
+2020,San Joaquin,Contains a Neonic,1
+2020,San Joaquin,Does Not Contain a Neonic,9
+2020,San Joaquin,Percent Contining Neonics,10
+2020,San Luis Obispo,Contains a Neonic,8
+2020,San Luis Obispo,Does Not Contain a Neonic,1
+2020,San Luis Obispo,Percent Contining Neonics,88.88888888888889
+2020,Santa Barbara,Contains a Neonic,31
+2020,Santa Barbara,Does Not Contain a Neonic,80
+2020,Santa Barbara,Percent Contining Neonics,27.927927927927925
+2020,Santa Clara,Contains a Neonic,2
+2020,Santa Clara,Does Not Contain a Neonic,10
+2020,Santa Clara,Percent Contining Neonics,16.666666666666664
+2020,Solano,Contains a Neonic,0
+2020,Solano,Does Not Contain a Neonic,4
+2020,Solano,Percent Contining Neonics,0
+2020,Stanislaus,Contains a Neonic,4
+2020,Stanislaus,Does Not Contain a Neonic,11
+2020,Stanislaus,Percent Contining Neonics,26.666666666666668
+2020,Sutter,Contains a Neonic,0
+2020,Sutter,Does Not Contain a Neonic,15
+2020,Sutter,Percent Contining Neonics,0
+2020,Ventura,Contains a Neonic,1
+2020,Ventura,Does Not Contain a Neonic,19
+2020,Ventura,Percent Contining Neonics,5
+2020,Yolo,Contains a Neonic,0
+2020,Yolo,Does Not Contain a Neonic,40
+2020,Yolo,Percent Contining Neonics,0

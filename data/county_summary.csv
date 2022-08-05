@@ -1,46 +1,46 @@
 county,date_range,number_samples_with_neonic,total_samples,neonics_found,range,percent_samples_containing_a_neonic
-Alameda,2014-03-18 - 2020-06-25,12,88,imidacloprid,0 - 0.044,13.64
-Butte,2018-07-18 - 2020-09-09,0,22,None Detected,0 - 0,0
-Calaveras,2019-05-09 - 2019-05-09,0,5,None Detected,0 - 0,0
-Colusa,2007-09-18 - 2020-09-09,1,74,imidacloprid,0 - 0.090414,1.35
-Contra Costa,2001-04-17 - 2020-06-25,13,283,imidacloprid,0 - 0.0676,4.59
-Del Norte,2016-05-25 - 2016-07-26,2,3,imidacloprid,0 - 0.082,66.67
-El Dorado,2019-05-15 - 2019-12-10,0,20,None Detected,0 - 0,0
-Fresno,2011-09-08 - 2019-08-05,0,50,None Detected,0 - 0,0
-Glenn,2018-07-18 - 2018-08-22,0,2,None Detected,0 - 0,0
-Imperial,2010-10-05 - 2020-10-29,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",0 - 3.48,54.61
-Inyo,2004-03-17 - 2004-03-17,0,2,None Detected,0 - 0,0
-Kings,2015-04-14 - 2016-11-30,3,30,"imidacloprid, clothianidin",0 - 0.0069,10
-Los Angeles,2004-05-10 - 2020-07-23,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",0 - 0.726,48.78
-Madera,2012-06-01 - 2019-09-05,0,11,None Detected,0 - 0,0
-Marin,2017-04-05 - 2017-05-11,0,19,None Detected,0 - 0,0
-Mariposa,2003-07-29 - 2017-10-03,0,118,None Detected,0 - 0,0
-Mendocino,2016-10-28 - 2016-10-28,0,10,None Detected,0 - 0,0
-Merced,2001-10-09 - 2020-09-10,18,146,"clothianidin, acetamiprid, imidacloprid",0 - 0.36,12.33
-Modoc,2016-05-24 - 2016-05-24,0,3,None Detected,0 - 0,0
-Monterey,2010-05-17 - 2020-12-17,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",0 - 41.1,69.18
-Napa,2012-05-30 - 2017-05-10,0,27,None Detected,0 - 0,0
-Orange,2000-02-12 - 2020-06-08,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",0 - 165,65.68
-Placer,2011-06-27 - 2020-06-24,101,238,"dinotefuran, imidacloprid",0 - 3.308,42.44
-Riverside,2010-01-20 - 2020-10-26,123,162,"imidacloprid, clothianidin, thiamethoxam, acetamiprid",0 - 0.51,75.93
-Sacramento,2001-03-28 - 2020-09-30,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",0 - 1.84,6.4
-San Benito,2017-03-16 - 2018-09-26,13,57,"imidacloprid, thiamethoxam, dinotefuran",0 - 0.104,22.81
-San Bernardino,2000-03-14 - 2006-05-17,0,6,None Detected,0 - 0,0
-San Diego,2002-03-20 - 2019-12-04,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",0 - 1.89,25.53
-San Joaquin,2001-03-27 - 2020-07-22,51,1028,"imidacloprid, thiamethoxam, dinotefuran",0 - 0.238,4.96
-San Luis Obispo,2010-06-08 - 2020-09-22,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",0 - 51.83,40.89
-San Mateo,2017-03-16 - 2017-07-19,0,21,None Detected,0 - 0,0
-Santa Barbara,2010-06-08 - 2020-09-22,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",0 - 9.30491,39.33
-Santa Clara,2014-07-07 - 2020-06-23,14,186,"dinotefuran, imidacloprid, thiamethoxam",0 - 0.0804,7.53
-Santa Cruz,2011-04-26 - 2018-09-27,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",0 - 0.329,20
-Shasta,2015-08-19 - 2018-08-22,0,18,None Detected,0 - 0,0
-Siskiyou,2016-05-24 - 2016-05-24,0,3,None Detected,0 - 0,0
-Solano,2011-04-05 - 2020-09-03,57,814,"clothianidin, imidacloprid, thiamethoxam, dinotefuran",0 - 0.0977,7
-Sonoma,2012-05-29 - 2017-05-11,8,110,imidacloprid,0 - 0.0645,7.27
-Stanislaus,2001-10-09 - 2020-09-10,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",0 - 0.34132,29.73
-Sutter,2001-03-28 - 2020-09-09,3,121,"imidacloprid, clothianidin",0 - 0.0067,2.48
-Tulare,2011-07-10 - 2019-10-16,0,493,None Detected,0 - 0,0
-Tuolumne,2012-06-01 - 2017-10-03,0,29,None Detected,0 - 0,0
-Ventura,2011-08-09 - 2020-07-29,4,44,"thiamethoxam, imidacloprid",0 - 0.112,9.09
-Yolo,2015-06-03 - 2020-09-09,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",0 - 0.0335,3.3
-Yuba,2017-07-13 - 2018-09-06,0,10,None Detected,0 - 0,0
+Alameda,01/31/2019 to 11/27/2019,12,88,imidacloprid,0 - 0.044,13.64
+Butte,05/14/2020 to 12/03/2018,0,22,None Detected,0 - 0,0
+Calaveras,05/09/2019 to 05/09/2019,0,5,None Detected,0 - 0,0
+Colusa,05/14/2020 to 09/18/2007,1,74,imidacloprid,0 - 0.090414,1.35
+Contra Costa,01/16/2020 to 11/27/2019,13,283,imidacloprid,0 - 0.0676,4.59
+Del Norte,05/25/2016 to 07/26/2016,2,3,imidacloprid,0 - 0.082,66.67
+El Dorado,05/15/2019 to 12/10/2019,0,20,None Detected,0 - 0,0
+Fresno,06/11/2018 to 09/08/2014,0,50,None Detected,0 - 0,0
+Glenn,07/18/2018 to 08/22/2018,0,2,None Detected,0 - 0,0
+Imperial,01/06/2020 to 10/29/2020,83,152,"imidacloprid, thiamethoxam, clothianidin, dinotefuran",0 - 3.48,54.61
+Inyo,03/17/2004 to 03/17/2004,0,2,None Detected,0 - 0,0
+Kings,03/07/2016 to 11/30/2016,3,30,"imidacloprid, clothianidin",0 - 0.0069,10
+Los Angeles,01/08/2018 to 12/13/2015,100,205,"acetamiprid, thiamethoxam, dinotefuran, clothianidin, imidacloprid",0 - 0.726,48.78
+Madera,06/01/2012 to 10/10/2017,0,11,None Detected,0 - 0,0
+Marin,04/05/2017 to 05/11/2017,0,19,None Detected,0 - 0,0
+Mariposa,04/11/2017 to 11/12/2013,0,118,None Detected,0 - 0,0
+Mendocino,10/28/2016 to 10/28/2016,0,10,None Detected,0 - 0,0
+Merced,01/10/2018 to 12/05/2017,18,146,"clothianidin, acetamiprid, imidacloprid",0 - 0.36,12.33
+Modoc,05/24/2016 to 05/24/2016,0,3,None Detected,0 - 0,0
+Monterey,01/12/2017 to 12/17/2020,550,795,"imidacloprid, acetamiprid, clothianidin, thiamethoxam, dinotefuran",0 - 41.1,69.18
+Napa,04/04/2017 to 05/30/2012,0,27,None Detected,0 - 0,0
+Orange,01/10/2018 to 12/13/2015,266,405,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",0 - 165,65.68
+Placer,01/20/2012 to 11/27/2019,101,238,"dinotefuran, imidacloprid",0 - 3.308,42.44
+Riverside,01/06/2020 to 12/20/2017,123,162,"imidacloprid, clothianidin, thiamethoxam, acetamiprid",0 - 0.51,75.93
+Sacramento,01/07/2020 to 12/29/2004,73,1140,"dinotefuran, imidacloprid, clothianidin, thiamethoxam",0 - 1.84,6.4
+San Benito,03/01/2018 to 12/13/2017,13,57,"imidacloprid, thiamethoxam, dinotefuran",0 - 0.104,22.81
+San Bernardino,03/14/2000 to 05/17/2006,0,6,None Detected,0 - 0,0
+San Diego,01/09/2018 to 12/19/2016,36,141,"thiamethoxam, imidacloprid, clothianidin, dinotefuran",0 - 1.89,25.53
+San Joaquin,01/05/2010 to 12/21/2016,51,1028,"imidacloprid, thiamethoxam, dinotefuran",0 - 0.238,4.96
+San Luis Obispo,01/09/2018 to 12/11/2017,83,203,"imidacloprid, dinotefuran, acetamiprid, thiamethoxam, clothianidin",0 - 51.83,40.89
+San Mateo,03/16/2017 to 07/19/2017,0,21,None Detected,0 - 0,0
+Santa Barbara,01/04/2017 to 12/12/2017,199,506,"imidacloprid, dinotefuran, thiamethoxam, acetamiprid, clothianidin",0 - 9.30491,39.33
+Santa Clara,01/03/2017 to 12/13/2017,14,186,"dinotefuran, imidacloprid, thiamethoxam",0 - 0.0804,7.53
+Santa Cruz,01/17/2018 to 12/13/2017,24,120,"imidacloprid, clothianidin, thiamethoxam, acetamiprid, dinotefuran",0 - 0.329,20
+Shasta,04/19/2018 to 08/22/2018,0,18,None Detected,0 - 0,0
+Siskiyou,05/24/2016 to 05/24/2016,0,3,None Detected,0 - 0,0
+Solano,01/09/2017 to 12/19/2018,57,814,"clothianidin, imidacloprid, thiamethoxam, dinotefuran",0 - 0.0977,7
+Sonoma,04/03/2017 to 10/28/2016,8,110,imidacloprid,0 - 0.0645,7.27
+Stanislaus,01/07/2015 to 12/22/2014,33,111,"acetamiprid, imidacloprid, thiamethoxam, clothianidin",0 - 0.34132,29.73
+Sutter,03/08/2016 to 11/16/2016,3,121,"imidacloprid, clothianidin",0 - 0.0067,2.48
+Tulare,04/04/2017 to 11/12/2013,0,493,None Detected,0 - 0,0
+Tuolumne,06/01/2012 to 10/26/2016,0,29,None Detected,0 - 0,0
+Ventura,06/04/2018 to 08/09/2011,4,44,"thiamethoxam, imidacloprid",0 - 0.112,9.09
+Yolo,01/06/2020 to 12/26/2019,25,758,"acetamiprid, clothianidin, imidacloprid, thiamethoxam",0 - 0.0335,3.3
+Yuba,05/31/2018 to 09/06/2018,0,10,None Detected,0 - 0,0
