@@ -17,7 +17,45 @@ neonics_data <- surface_water_data %>%
   filter(chemical_name %in% neonics) %>% 
   mutate(sample_date = as_date(sample_date, format = "%m/%d/%Y")) %>% glimpse
 
-### Create tables to use in tableau --------------------------------------------
+### Create tables to use in the just Imidocloprid neonics tableau --------------------------------------------
+
+# county summary table 
+county_summaries_imidocloprid <- neonics_data %>% 
+  filter(chemical_name == "imidacloprid") %>% 
+  group_by(site_code, sample_date) %>%
+  mutate(neonic = concentration_ppb > 0) %>%
+  group_by(county) %>% 
+  summarise(min_date = min(sample_date), 
+            max_date = max(sample_date),
+            date_range = paste(format(min_date, "%m/%d/%Y"), "to", 
+                               format(max_date, "%m/%d/%Y")), 
+            number_samples_with_neonic = (sum(neonic)),
+            total_samples = n(),
+            range = paste(min(concentration_ppb), "-", max(concentration_ppb))) %>% 
+  mutate(percent_samples_containing_a_neonic = round(number_samples_with_neonic/total_samples * 100, 2)) %>% glimpse
+
+# Save county summary table 
+write_csv(county_summaries_imidocloprid, "data/imidocloprid_county_summary.csv")
+
+# For bar chart - create county summaries by year 
+# Create wide version for tableau 
+clean_neonics_wide_imidocloprid <- neonics_data %>% 
+  filter(chemical_name == "imidacloprid") %>% 
+  group_by(site_code, sample_date) %>%
+  mutate(neonic = concentration_ppb > 0) %>% 
+  ungroup()%>% 
+  group_by(year = year(sample_date), county) %>% 
+  summarise(total_samples = n(), 
+            `Contains Imidacloprid` = sum(neonic),
+            `Does Not Contain Imidacloprid` = total_samples - `Contains Imidacloprid`,
+            `Percent Contining Imidacloprid` = (`Contains Imidacloprid`/ total_samples) * 100) %>% glimpse
+
+
+write_csv(clean_neonics_wide_imidocloprid, "data/imidocloprid_clean_neonics_wide_by_year.csv")
+
+
+
+### Create tables to use in all neonics tableau --------------------------------------------
 
 # For map - Create county summaries for entire period of record 
 # Describe the percent containing a neonic, when measured for a neonic, by county and year. 
@@ -43,22 +81,6 @@ county_summaries <- neonics_data %>%
 # Save county summary table 
 write_csv(county_summaries, "data/county_summary.csv")
 
-# county summary table with chemical names
-county_summary_with_chemical_names <- neonics_data %>% 
-  group_by(site_code, sample_date, chemical_name) %>%
-  mutate(neonic = concentration_ppb > 0,
-         neonic_name = if_else(neonic, chemical_name, NULL)) %>%
-  group_by(county, chemical_name) %>% 
-  summarise(date_range = paste(min(format(sample_date, "%m/%d/%Y")), "to", 
-                               max(format(sample_date, "%m/%d/%Y"))), 
-            number_samples_with_neonic = (sum(neonic)),
-            total_samples = n(),
-            neonics_found = unique(neonic_name) %>% my_paste(),
-            range = paste(min(concentration_ppb), "-", max(concentration_ppb))) %>% 
-  mutate(percent_samples_containing_a_neonic = round(number_samples_with_neonic/total_samples * 100, 2),
-         neonics_found = ifelse(neonics_found == "", "None Detected", neonics_found)) %>% glimpse
-write_csv(county_summary_with_chemical_names, "data/county_summary_with_chemical_names.csv")
-
 # For bar chart - create county summaries by year 
 # generate clean set that gives percent by year containing a neonic for each county 
 clean_neonics <- neonics_data %>% 
@@ -74,7 +96,7 @@ clean_neonics <- neonics_data %>%
   filter(neonic != "total_samples") %>% glimpse
 
 # Create wide version for tableau 
-clean_neonics_wide_with_chemical_names <- neonics_data %>% 
+clean_neonics_wide <- neonics_data %>% 
   group_by(site_code, sample_date) %>%
   mutate(neonic = concentration_ppb > 0) %>% 
   ungroup()%>% 
@@ -84,21 +106,9 @@ clean_neonics_wide_with_chemical_names <- neonics_data %>%
             `Does Not Contain a Neonic` = total_samples - `Contains a Neonic`,
             `Percent Contining Neonics` = (`Contains a Neonic`/ total_samples) * 100) %>% glimpse
 
-# disaggregate by chemical name
-clean_neonics_wide <- neonics_data %>% 
-  group_by(site_code, sample_date, chemical_name) %>%
-  mutate(neonic = concentration_ppb > 0) %>% 
-  ungroup()%>% 
-  group_by(year = year(sample_date), county, chemical_name) %>% 
-  summarise(total_samples = n(), 
-            `Contains a Neonic` = sum(neonic),
-            `Does Not Contain a Neonic` = total_samples - `Contains a Neonic`,
-            `Percent Contining Neonics` = (`Contains a Neonic`/ total_samples) * 100) %>% glimpse
-
 
 # write_csv(clean_neonics_wide, "data/clean_neonics_wide_by_year.csv")
-  
-# write_csv(clean_neonics_wide_with_chemical_names, "data/clean_neonics_wide_with_chemical_names.csv")
+
 
 ### Additional QC and test tables ----------------------------------------------
 # review data 

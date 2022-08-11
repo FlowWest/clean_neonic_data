@@ -1,0 +1,687 @@
+year,county,chemical_name,total_samples,Contains a Neonic,Does Not Contain a Neonic,Percent Contining Neonics
+2000,Orange,imidacloprid,4,0,4,0
+2000,San Bernardino,imidacloprid,2,0,2,0
+2001,Contra Costa,imidacloprid,6,0,6,0
+2001,Merced,imidacloprid,3,0,3,0
+2001,Sacramento,imidacloprid,15,0,15,0
+2001,San Joaquin,imidacloprid,4,0,4,0
+2001,Stanislaus,imidacloprid,3,0,3,0
+2001,Sutter,imidacloprid,3,0,3,0
+2002,Merced,imidacloprid,17,0,17,0
+2002,San Diego,imidacloprid,8,0,8,0
+2002,San Joaquin,imidacloprid,17,0,17,0
+2002,Stanislaus,imidacloprid,17,0,17,0
+2003,Mariposa,imidacloprid,1,0,1,0
+2003,San Diego,imidacloprid,24,0,24,0
+2004,Inyo,imidacloprid,2,0,2,0
+2004,Los Angeles,imidacloprid,1,0,1,0
+2004,Sacramento,imidacloprid,6,2,4,33.33333333333333
+2004,San Bernardino,imidacloprid,3,0,3,0
+2004,San Diego,imidacloprid,8,0,8,0
+2005,Sacramento,imidacloprid,17,13,4,76.47058823529412
+2005,San Diego,imidacloprid,8,0,8,0
+2006,San Bernardino,imidacloprid,1,0,1,0
+2006,San Diego,imidacloprid,1,0,1,0
+2007,Colusa,acetamiprid,2,0,2,0
+2007,Sutter,acetamiprid,4,0,4,0
+2010,Imperial,imidacloprid,6,5,1,83.33333333333334
+2010,Monterey,imidacloprid,11,10,1,90.9090909090909
+2010,Orange,imidacloprid,18,12,6,66.66666666666666
+2010,Riverside,imidacloprid,14,0,14,0
+2010,San Joaquin,imidacloprid,15,0,15,0
+2010,San Luis Obispo,imidacloprid,1,1,0,100
+2010,Santa Barbara,imidacloprid,4,4,0,100
+2010,Stanislaus,imidacloprid,13,0,13,0
+2011,Contra Costa,clothianidin,10,0,10,0
+2011,Contra Costa,imidacloprid,10,0,10,0
+2011,Contra Costa,thiamethoxam,10,0,10,0
+2011,Fresno,imidacloprid,1,0,1,0
+2011,Fresno,thiamethoxam,1,0,1,0
+2011,Imperial,imidacloprid,19,11,8,57.89473684210527
+2011,Merced,imidacloprid,7,0,7,0
+2011,Monterey,imidacloprid,37,29,8,78.37837837837837
+2011,Orange,imidacloprid,35,20,15,57.14285714285714
+2011,Placer,imidacloprid,26,8,18,30.76923076923077
+2011,Sacramento,clothianidin,10,0,10,0
+2011,Sacramento,imidacloprid,19,2,17,10.526315789473683
+2011,Sacramento,thiamethoxam,10,0,10,0
+2011,San Luis Obispo,imidacloprid,1,1,0,100
+2011,Santa Barbara,imidacloprid,9,9,0,100
+2011,Santa Cruz,imidacloprid,8,3,5,37.5
+2011,Solano,clothianidin,10,0,10,0
+2011,Solano,imidacloprid,10,0,10,0
+2011,Solano,thiamethoxam,10,0,10,0
+2011,Tulare,imidacloprid,13,0,13,0
+2011,Tulare,thiamethoxam,13,0,13,0
+2011,Ventura,imidacloprid,4,3,1,75
+2012,Contra Costa,acetamiprid,10,0,10,0
+2012,Contra Costa,clothianidin,60,0,60,0
+2012,Contra Costa,dinotefuran,10,0,10,0
+2012,Contra Costa,imidacloprid,10,0,10,0
+2012,Contra Costa,thiamethoxam,60,0,60,0
+2012,Madera,imidacloprid,1,0,1,0
+2012,Madera,thiamethoxam,1,0,1,0
+2012,Mariposa,imidacloprid,3,0,3,0
+2012,Mariposa,thiamethoxam,3,0,3,0
+2012,Monterey,imidacloprid,52,45,7,86.53846153846155
+2012,Napa,imidacloprid,2,0,2,0
+2012,Orange,imidacloprid,32,26,6,81.25
+2012,Placer,imidacloprid,11,3,8,27.27272727272727
+2012,Riverside,imidacloprid,7,5,2,71.42857142857143
+2012,Sacramento,acetamiprid,26,0,26,0
+2012,Sacramento,clothianidin,36,0,36,0
+2012,Sacramento,dinotefuran,26,0,26,0
+2012,Sacramento,imidacloprid,42,6,36,14.285714285714285
+2012,Sacramento,thiamethoxam,36,0,36,0
+2012,San Joaquin,acetamiprid,16,0,16,0
+2012,San Joaquin,clothianidin,32,0,32,0
+2012,San Joaquin,dinotefuran,16,0,16,0
+2012,San Joaquin,imidacloprid,24,0,24,0
+2012,San Joaquin,thiamethoxam,16,0,16,0
+2012,San Luis Obispo,imidacloprid,8,4,4,50
+2012,Santa Barbara,imidacloprid,6,6,0,100
+2012,Santa Cruz,imidacloprid,1,1,0,100
+2012,Solano,acetamiprid,10,0,10,0
+2012,Solano,clothianidin,30,0,30,0
+2012,Solano,dinotefuran,10,0,10,0
+2012,Solano,imidacloprid,10,0,10,0
+2012,Solano,thiamethoxam,30,0,30,0
+2012,Sonoma,imidacloprid,9,0,9,0
+2012,Stanislaus,imidacloprid,2,2,0,100
+2012,Tulare,imidacloprid,3,0,3,0
+2012,Tulare,thiamethoxam,3,0,3,0
+2012,Tuolumne,imidacloprid,1,0,1,0
+2012,Tuolumne,thiamethoxam,1,0,1,0
+2013,Colusa,acetamiprid,1,0,1,0
+2013,Colusa,clothianidin,1,0,1,0
+2013,Colusa,dinotefuran,1,0,1,0
+2013,Colusa,imidacloprid,2,0,2,0
+2013,Colusa,thiamethoxam,1,0,1,0
+2013,Imperial,acetamiprid,1,0,1,0
+2013,Imperial,clothianidin,1,0,1,0
+2013,Imperial,dinotefuran,1,0,1,0
+2013,Imperial,imidacloprid,2,1,1,50
+2013,Imperial,thiamethoxam,1,1,0,100
+2013,Mariposa,clothianidin,7,0,7,0
+2013,Mariposa,imidacloprid,7,0,7,0
+2013,Mariposa,thiamethoxam,7,0,7,0
+2013,Monterey,imidacloprid,32,27,5,84.375
+2013,Orange,imidacloprid,31,22,9,70.96774193548387
+2013,Placer,imidacloprid,23,11,12,47.82608695652174
+2013,Riverside,imidacloprid,17,17,0,100
+2013,Sacramento,acetamiprid,19,0,19,0
+2013,Sacramento,clothianidin,19,0,19,0
+2013,Sacramento,dinotefuran,19,0,19,0
+2013,Sacramento,imidacloprid,46,4,42,8.695652173913043
+2013,Sacramento,thiamethoxam,19,0,19,0
+2013,San Joaquin,acetamiprid,8,0,8,0
+2013,San Joaquin,clothianidin,16,0,16,0
+2013,San Joaquin,dinotefuran,8,0,8,0
+2013,San Joaquin,imidacloprid,26,3,23,11.538461538461538
+2013,San Joaquin,thiamethoxam,8,0,8,0
+2013,San Luis Obispo,imidacloprid,7,4,3,57.14285714285714
+2013,Santa Barbara,imidacloprid,12,12,0,100
+2013,Stanislaus,imidacloprid,10,6,4,60
+2013,Tulare,clothianidin,18,0,18,0
+2013,Tulare,imidacloprid,18,0,18,0
+2013,Tulare,thiamethoxam,18,0,18,0
+2013,Tuolumne,clothianidin,1,0,1,0
+2013,Tuolumne,imidacloprid,1,0,1,0
+2013,Tuolumne,thiamethoxam,1,0,1,0
+2014,Alameda,imidacloprid,3,1,2,33.33333333333333
+2014,Contra Costa,imidacloprid,5,0,5,0
+2014,Fresno,clothianidin,4,0,4,0
+2014,Fresno,imidacloprid,4,0,4,0
+2014,Fresno,thiamethoxam,4,0,4,0
+2014,Imperial,imidacloprid,9,7,2,77.77777777777779
+2014,Los Angeles,imidacloprid,7,6,1,85.71428571428571
+2014,Mariposa,clothianidin,10,0,10,0
+2014,Mariposa,imidacloprid,10,0,10,0
+2014,Mariposa,thiamethoxam,10,0,10,0
+2014,Monterey,acetamiprid,1,1,0,100
+2014,Monterey,clothianidin,1,1,0,100
+2014,Monterey,dinotefuran,1,1,0,100
+2014,Monterey,imidacloprid,34,29,5,85.29411764705883
+2014,Monterey,thiamethoxam,1,1,0,100
+2014,Orange,imidacloprid,35,29,6,82.85714285714286
+2014,Placer,imidacloprid,24,9,15,37.5
+2014,Riverside,acetamiprid,1,0,1,0
+2014,Riverside,clothianidin,1,0,1,0
+2014,Riverside,dinotefuran,1,0,1,0
+2014,Riverside,imidacloprid,19,10,9,52.63157894736842
+2014,Riverside,thiamethoxam,1,0,1,0
+2014,Sacramento,imidacloprid,28,1,27,3.571428571428571
+2014,San Diego,imidacloprid,4,2,2,50
+2014,San Joaquin,imidacloprid,17,1,16,5.88235294117647
+2014,San Luis Obispo,imidacloprid,4,4,0,100
+2014,Santa Barbara,imidacloprid,13,13,0,100
+2014,Santa Clara,imidacloprid,4,0,4,0
+2014,Stanislaus,imidacloprid,3,2,1,66.66666666666666
+2014,Tulare,clothianidin,27,0,27,0
+2014,Tulare,imidacloprid,33,0,33,0
+2014,Tulare,thiamethoxam,33,0,33,0
+2014,Tuolumne,clothianidin,2,0,2,0
+2014,Tuolumne,imidacloprid,2,0,2,0
+2014,Tuolumne,thiamethoxam,2,0,2,0
+2015,Imperial,imidacloprid,9,8,1,88.88888888888889
+2015,Kings,acetamiprid,3,0,3,0
+2015,Kings,clothianidin,3,1,2,33.33333333333333
+2015,Kings,dinotefuran,3,0,3,0
+2015,Kings,imidacloprid,3,1,2,33.33333333333333
+2015,Kings,thiamethoxam,3,0,3,0
+2015,Los Angeles,imidacloprid,12,10,2,83.33333333333334
+2015,Mariposa,clothianidin,9,0,9,0
+2015,Mariposa,imidacloprid,9,0,9,0
+2015,Mariposa,thiamethoxam,9,0,9,0
+2015,Monterey,acetamiprid,3,3,0,100
+2015,Monterey,clothianidin,3,3,0,100
+2015,Monterey,dinotefuran,3,2,1,66.66666666666666
+2015,Monterey,imidacloprid,57,43,14,75.43859649122807
+2015,Monterey,thiamethoxam,3,3,0,100
+2015,Orange,acetamiprid,1,0,1,0
+2015,Orange,clothianidin,1,0,1,0
+2015,Orange,dinotefuran,1,0,1,0
+2015,Orange,imidacloprid,29,18,11,62.06896551724138
+2015,Orange,thiamethoxam,1,1,0,100
+2015,Placer,acetamiprid,2,0,2,0
+2015,Placer,clothianidin,2,0,2,0
+2015,Placer,dinotefuran,2,0,2,0
+2015,Placer,imidacloprid,17,5,12,29.411764705882355
+2015,Placer,thiamethoxam,2,0,2,0
+2015,Riverside,imidacloprid,17,14,3,82.35294117647058
+2015,Sacramento,acetamiprid,14,0,14,0
+2015,Sacramento,clothianidin,14,1,13,7.142857142857142
+2015,Sacramento,dinotefuran,14,1,13,7.142857142857142
+2015,Sacramento,imidacloprid,33,5,28,15.151515151515152
+2015,Sacramento,thiamethoxam,14,1,13,7.142857142857142
+2015,San Diego,acetamiprid,2,0,2,0
+2015,San Diego,clothianidin,2,1,1,50
+2015,San Diego,dinotefuran,2,1,1,50
+2015,San Diego,imidacloprid,5,1,4,20
+2015,San Diego,thiamethoxam,2,1,1,50
+2015,San Joaquin,acetamiprid,38,0,38,0
+2015,San Joaquin,clothianidin,38,0,38,0
+2015,San Joaquin,dinotefuran,38,0,38,0
+2015,San Joaquin,imidacloprid,36,5,31,13.88888888888889
+2015,San Joaquin,thiamethoxam,38,1,37,2.631578947368421
+2015,San Luis Obispo,acetamiprid,3,0,3,0
+2015,San Luis Obispo,clothianidin,3,0,3,0
+2015,San Luis Obispo,dinotefuran,3,3,0,100
+2015,San Luis Obispo,imidacloprid,6,6,0,100
+2015,San Luis Obispo,thiamethoxam,3,0,3,0
+2015,Santa Barbara,imidacloprid,11,11,0,100
+2015,Santa Clara,acetamiprid,1,0,1,0
+2015,Santa Clara,clothianidin,1,0,1,0
+2015,Santa Clara,dinotefuran,1,0,1,0
+2015,Santa Clara,imidacloprid,1,0,1,0
+2015,Santa Clara,thiamethoxam,1,0,1,0
+2015,Shasta,clothianidin,4,0,4,0
+2015,Shasta,imidacloprid,4,0,4,0
+2015,Shasta,thiamethoxam,4,0,4,0
+2015,Solano,acetamiprid,23,0,23,0
+2015,Solano,clothianidin,23,0,23,0
+2015,Solano,dinotefuran,23,0,23,0
+2015,Solano,imidacloprid,16,6,10,37.5
+2015,Solano,thiamethoxam,23,0,23,0
+2015,Stanislaus,acetamiprid,2,1,1,50
+2015,Stanislaus,clothianidin,2,0,2,0
+2015,Stanislaus,dinotefuran,2,0,2,0
+2015,Stanislaus,imidacloprid,3,3,0,100
+2015,Stanislaus,thiamethoxam,2,1,1,50
+2015,Sutter,acetamiprid,2,0,2,0
+2015,Sutter,clothianidin,2,0,2,0
+2015,Sutter,dinotefuran,2,0,2,0
+2015,Sutter,imidacloprid,2,0,2,0
+2015,Sutter,thiamethoxam,2,0,2,0
+2015,Tulare,clothianidin,35,0,35,0
+2015,Tulare,imidacloprid,34,0,34,0
+2015,Tulare,thiamethoxam,35,0,35,0
+2015,Tuolumne,clothianidin,3,0,3,0
+2015,Tuolumne,imidacloprid,3,0,3,0
+2015,Tuolumne,thiamethoxam,3,0,3,0
+2015,Yolo,acetamiprid,16,0,16,0
+2015,Yolo,clothianidin,16,0,16,0
+2015,Yolo,dinotefuran,16,0,16,0
+2015,Yolo,imidacloprid,11,0,11,0
+2015,Yolo,thiamethoxam,16,0,16,0
+2016,Alameda,imidacloprid,2,1,1,50
+2016,Contra Costa,imidacloprid,2,1,1,50
+2016,Del Norte,imidacloprid,3,2,1,66.66666666666666
+2016,Imperial,imidacloprid,8,8,0,100
+2016,Kings,acetamiprid,3,0,3,0
+2016,Kings,clothianidin,3,0,3,0
+2016,Kings,dinotefuran,3,0,3,0
+2016,Kings,imidacloprid,3,1,2,33.33333333333333
+2016,Kings,thiamethoxam,3,0,3,0
+2016,Los Angeles,imidacloprid,13,8,5,61.53846153846154
+2016,Mariposa,clothianidin,8,0,8,0
+2016,Mariposa,imidacloprid,8,0,8,0
+2016,Mariposa,thiamethoxam,8,0,8,0
+2016,Mendocino,acetamiprid,2,0,2,0
+2016,Mendocino,clothianidin,2,0,2,0
+2016,Mendocino,dinotefuran,2,0,2,0
+2016,Mendocino,imidacloprid,2,0,2,0
+2016,Mendocino,thiamethoxam,2,0,2,0
+2016,Modoc,imidacloprid,3,0,3,0
+2016,Monterey,acetamiprid,2,2,0,100
+2016,Monterey,clothianidin,2,2,0,100
+2016,Monterey,dinotefuran,2,2,0,100
+2016,Monterey,imidacloprid,37,31,6,83.78378378378379
+2016,Monterey,thiamethoxam,2,2,0,100
+2016,Orange,acetamiprid,5,0,5,0
+2016,Orange,clothianidin,5,1,4,20
+2016,Orange,dinotefuran,5,2,3,40
+2016,Orange,imidacloprid,34,30,4,88.23529411764706
+2016,Orange,thiamethoxam,5,1,4,20
+2016,Placer,acetamiprid,4,0,4,0
+2016,Placer,clothianidin,4,0,4,0
+2016,Placer,dinotefuran,4,3,1,75
+2016,Placer,imidacloprid,21,13,8,61.904761904761905
+2016,Placer,thiamethoxam,4,0,4,0
+2016,Riverside,imidacloprid,16,13,3,81.25
+2016,Sacramento,acetamiprid,44,0,44,0
+2016,Sacramento,clothianidin,44,2,42,4.545454545454546
+2016,Sacramento,dinotefuran,44,1,43,2.272727272727273
+2016,Sacramento,imidacloprid,55,12,43,21.818181818181817
+2016,Sacramento,thiamethoxam,44,3,41,6.8181818181818175
+2016,San Diego,acetamiprid,10,0,10,0
+2016,San Diego,clothianidin,10,5,5,50
+2016,San Diego,dinotefuran,10,6,4,60
+2016,San Diego,imidacloprid,14,7,7,50
+2016,San Diego,thiamethoxam,10,5,5,50
+2016,San Joaquin,acetamiprid,75,0,75,0
+2016,San Joaquin,clothianidin,75,0,75,0
+2016,San Joaquin,dinotefuran,75,1,74,1.3333333333333335
+2016,San Joaquin,imidacloprid,55,20,35,36.36363636363637
+2016,San Joaquin,thiamethoxam,75,2,73,2.666666666666667
+2016,San Luis Obispo,acetamiprid,3,0,3,0
+2016,San Luis Obispo,clothianidin,3,0,3,0
+2016,San Luis Obispo,dinotefuran,3,3,0,100
+2016,San Luis Obispo,imidacloprid,6,6,0,100
+2016,San Luis Obispo,thiamethoxam,3,0,3,0
+2016,Santa Barbara,acetamiprid,9,0,9,0
+2016,Santa Barbara,clothianidin,9,0,9,0
+2016,Santa Barbara,dinotefuran,9,1,8,11.11111111111111
+2016,Santa Barbara,imidacloprid,8,8,0,100
+2016,Santa Barbara,thiamethoxam,9,0,9,0
+2016,Santa Clara,acetamiprid,3,0,3,0
+2016,Santa Clara,clothianidin,3,0,3,0
+2016,Santa Clara,dinotefuran,3,0,3,0
+2016,Santa Clara,imidacloprid,4,1,3,25
+2016,Santa Clara,thiamethoxam,3,0,3,0
+2016,Shasta,clothianidin,1,0,1,0
+2016,Shasta,imidacloprid,1,0,1,0
+2016,Shasta,thiamethoxam,1,0,1,0
+2016,Siskiyou,imidacloprid,3,0,3,0
+2016,Solano,acetamiprid,34,0,34,0
+2016,Solano,clothianidin,34,4,30,11.76470588235294
+2016,Solano,dinotefuran,34,4,30,11.76470588235294
+2016,Solano,imidacloprid,17,12,5,70.58823529411765
+2016,Solano,thiamethoxam,34,2,32,5.88235294117647
+2016,Sonoma,acetamiprid,3,0,3,0
+2016,Sonoma,clothianidin,3,0,3,0
+2016,Sonoma,dinotefuran,3,0,3,0
+2016,Sonoma,imidacloprid,3,1,2,33.33333333333333
+2016,Sonoma,thiamethoxam,3,0,3,0
+2016,Stanislaus,acetamiprid,3,1,2,33.33333333333333
+2016,Stanislaus,clothianidin,3,1,2,33.33333333333333
+2016,Stanislaus,dinotefuran,3,0,3,0
+2016,Stanislaus,imidacloprid,7,5,2,71.42857142857143
+2016,Stanislaus,thiamethoxam,3,1,2,33.33333333333333
+2016,Sutter,acetamiprid,16,0,16,0
+2016,Sutter,clothianidin,16,1,15,6.25
+2016,Sutter,dinotefuran,16,0,16,0
+2016,Sutter,imidacloprid,16,2,14,12.5
+2016,Sutter,thiamethoxam,16,0,16,0
+2016,Tulare,clothianidin,23,0,23,0
+2016,Tulare,imidacloprid,23,0,23,0
+2016,Tulare,thiamethoxam,23,0,23,0
+2016,Tuolumne,clothianidin,2,0,2,0
+2016,Tuolumne,imidacloprid,2,0,2,0
+2016,Tuolumne,thiamethoxam,2,0,2,0
+2016,Yolo,acetamiprid,30,0,30,0
+2016,Yolo,clothianidin,30,0,30,0
+2016,Yolo,dinotefuran,30,0,30,0
+2016,Yolo,imidacloprid,17,3,14,17.647058823529413
+2016,Yolo,thiamethoxam,30,0,30,0
+2017,Alameda,acetamiprid,3,0,3,0
+2017,Alameda,clothianidin,3,0,3,0
+2017,Alameda,dinotefuran,3,0,3,0
+2017,Alameda,imidacloprid,43,3,40,6.976744186046512
+2017,Alameda,thiamethoxam,3,0,3,0
+2017,Colusa,imidacloprid,6,0,6,0
+2017,Contra Costa,imidacloprid,65,7,58,10.76923076923077
+2017,Imperial,imidacloprid,8,8,0,100
+2017,Los Angeles,imidacloprid,13,12,1,92.3076923076923
+2017,Madera,clothianidin,1,0,1,0
+2017,Marin,imidacloprid,19,0,19,0
+2017,Mariposa,clothianidin,3,0,3,0
+2017,Mariposa,imidacloprid,3,0,3,0
+2017,Mariposa,thiamethoxam,3,0,3,0
+2017,Merced,acetamiprid,2,0,2,0
+2017,Monterey,acetamiprid,28,4,24,14.285714285714285
+2017,Monterey,clothianidin,28,3,25,10.714285714285714
+2017,Monterey,dinotefuran,28,6,22,21.428571428571427
+2017,Monterey,imidacloprid,75,53,22,70.66666666666667
+2017,Monterey,thiamethoxam,28,25,3,89.28571428571429
+2017,Napa,imidacloprid,25,0,25,0
+2017,Orange,imidacloprid,20,20,0,100
+2017,Placer,imidacloprid,19,16,3,84.21052631578947
+2017,Riverside,imidacloprid,17,16,1,94.11764705882352
+2017,Sacramento,acetamiprid,18,0,18,0
+2017,Sacramento,clothianidin,18,0,18,0
+2017,Sacramento,dinotefuran,18,0,18,0
+2017,Sacramento,imidacloprid,33,5,28,15.151515151515152
+2017,Sacramento,thiamethoxam,18,0,18,0
+2017,San Benito,acetamiprid,8,0,8,0
+2017,San Benito,clothianidin,6,0,6,0
+2017,San Benito,dinotefuran,6,1,5,16.666666666666664
+2017,San Benito,imidacloprid,5,4,1,80
+2017,San Benito,thiamethoxam,8,2,6,25
+2017,San Diego,imidacloprid,4,1,3,25
+2017,San Joaquin,acetamiprid,37,0,37,0
+2017,San Joaquin,clothianidin,36,0,36,0
+2017,San Joaquin,dinotefuran,36,2,34,5.555555555555555
+2017,San Joaquin,imidacloprid,34,4,30,11.76470588235294
+2017,San Joaquin,thiamethoxam,36,0,36,0
+2017,San Luis Obispo,acetamiprid,10,1,9,10
+2017,San Luis Obispo,clothianidin,10,0,10,0
+2017,San Luis Obispo,dinotefuran,10,1,9,10
+2017,San Luis Obispo,imidacloprid,30,8,22,26.666666666666668
+2017,San Luis Obispo,thiamethoxam,10,4,6,40
+2017,San Mateo,acetamiprid,3,0,3,0
+2017,San Mateo,clothianidin,3,0,3,0
+2017,San Mateo,dinotefuran,3,0,3,0
+2017,San Mateo,imidacloprid,9,0,9,0
+2017,San Mateo,thiamethoxam,3,0,3,0
+2017,Santa Barbara,acetamiprid,23,2,21,8.695652173913043
+2017,Santa Barbara,clothianidin,23,2,21,8.695652173913043
+2017,Santa Barbara,dinotefuran,23,3,20,13.043478260869565
+2017,Santa Barbara,imidacloprid,28,18,10,64.28571428571429
+2017,Santa Barbara,thiamethoxam,23,9,14,39.130434782608695
+2017,Santa Clara,acetamiprid,11,0,11,0
+2017,Santa Clara,clothianidin,11,0,11,0
+2017,Santa Clara,dinotefuran,11,1,10,9.090909090909092
+2017,Santa Clara,imidacloprid,69,3,66,4.3478260869565215
+2017,Santa Clara,thiamethoxam,11,0,11,0
+2017,Santa Cruz,acetamiprid,13,1,12,7.6923076923076925
+2017,Santa Cruz,clothianidin,8,0,8,0
+2017,Santa Cruz,dinotefuran,8,0,8,0
+2017,Santa Cruz,imidacloprid,22,3,19,13.636363636363635
+2017,Santa Cruz,thiamethoxam,13,3,10,23.076923076923077
+2017,Solano,acetamiprid,32,0,32,0
+2017,Solano,clothianidin,32,0,32,0
+2017,Solano,dinotefuran,32,0,32,0
+2017,Solano,imidacloprid,47,5,42,10.638297872340425
+2017,Solano,thiamethoxam,32,4,28,12.5
+2017,Sonoma,imidacloprid,86,7,79,8.13953488372093
+2017,Stanislaus,acetamiprid,1,1,0,100
+2017,Stanislaus,clothianidin,1,0,1,0
+2017,Stanislaus,dinotefuran,1,0,1,0
+2017,Stanislaus,imidacloprid,6,2,4,33.33333333333333
+2017,Stanislaus,thiamethoxam,1,1,0,100
+2017,Tulare,clothianidin,18,0,18,0
+2017,Tulare,imidacloprid,18,0,18,0
+2017,Tulare,thiamethoxam,18,0,18,0
+2017,Tuolumne,clothianidin,1,0,1,0
+2017,Tuolumne,imidacloprid,1,0,1,0
+2017,Tuolumne,thiamethoxam,1,0,1,0
+2017,Yolo,acetamiprid,29,0,29,0
+2017,Yolo,clothianidin,29,0,29,0
+2017,Yolo,dinotefuran,29,0,29,0
+2017,Yolo,imidacloprid,33,8,25,24.242424242424242
+2017,Yolo,thiamethoxam,29,1,28,3.4482758620689653
+2017,Yuba,imidacloprid,4,0,4,0
+2018,Alameda,imidacloprid,5,1,4,20
+2018,Butte,acetamiprid,3,0,3,0
+2018,Butte,clothianidin,1,0,1,0
+2018,Butte,dinotefuran,1,0,1,0
+2018,Butte,imidacloprid,1,0,1,0
+2018,Butte,thiamethoxam,1,0,1,0
+2018,Colusa,acetamiprid,1,0,1,0
+2018,Colusa,imidacloprid,9,0,9,0
+2018,Contra Costa,imidacloprid,3,0,3,0
+2018,Fresno,clothianidin,9,0,9,0
+2018,Fresno,imidacloprid,9,0,9,0
+2018,Fresno,thiamethoxam,9,0,9,0
+2018,Glenn,acetamiprid,2,0,2,0
+2018,Imperial,imidacloprid,12,12,0,100
+2018,Los Angeles,acetamiprid,7,1,6,14.285714285714285
+2018,Los Angeles,clothianidin,7,1,6,14.285714285714285
+2018,Los Angeles,dinotefuran,7,1,6,14.285714285714285
+2018,Los Angeles,imidacloprid,22,21,1,95.45454545454545
+2018,Los Angeles,thiamethoxam,7,1,6,14.285714285714285
+2018,Merced,acetamiprid,8,1,7,12.5
+2018,Merced,clothianidin,16,5,11,31.25
+2018,Monterey,acetamiprid,43,24,19,55.81395348837209
+2018,Monterey,clothianidin,43,21,22,48.837209302325576
+2018,Monterey,dinotefuran,43,7,36,16.27906976744186
+2018,Monterey,imidacloprid,23,20,3,86.95652173913044
+2018,Monterey,thiamethoxam,43,39,4,90.69767441860465
+2018,Orange,imidacloprid,33,31,2,93.93939393939394
+2018,Placer,imidacloprid,15,12,3,80
+2018,Riverside,imidacloprid,17,17,0,100
+2018,Sacramento,acetamiprid,12,0,12,0
+2018,Sacramento,clothianidin,13,0,13,0
+2018,Sacramento,dinotefuran,11,0,11,0
+2018,Sacramento,imidacloprid,27,2,25,7.4074074074074066
+2018,Sacramento,thiamethoxam,11,0,11,0
+2018,San Benito,acetamiprid,6,0,6,0
+2018,San Benito,clothianidin,6,0,6,0
+2018,San Benito,dinotefuran,6,1,5,16.666666666666664
+2018,San Benito,thiamethoxam,6,5,1,83.33333333333334
+2018,San Diego,imidacloprid,5,3,2,60
+2018,San Joaquin,acetamiprid,2,0,2,0
+2018,San Joaquin,clothianidin,7,0,7,0
+2018,San Joaquin,dinotefuran,1,1,0,100
+2018,San Joaquin,imidacloprid,19,3,16,15.789473684210526
+2018,San Joaquin,thiamethoxam,1,0,1,0
+2018,San Luis Obispo,acetamiprid,12,4,8,33.33333333333333
+2018,San Luis Obispo,clothianidin,12,0,12,0
+2018,San Luis Obispo,dinotefuran,12,3,9,25
+2018,San Luis Obispo,imidacloprid,4,4,0,100
+2018,San Luis Obispo,thiamethoxam,12,5,7,41.66666666666667
+2018,Santa Barbara,acetamiprid,30,13,17,43.333333333333336
+2018,Santa Barbara,clothianidin,30,2,28,6.666666666666667
+2018,Santa Barbara,dinotefuran,30,3,27,10
+2018,Santa Barbara,imidacloprid,11,11,0,100
+2018,Santa Barbara,thiamethoxam,30,14,16,46.666666666666664
+2018,Santa Clara,acetamiprid,5,0,5,0
+2018,Santa Clara,clothianidin,5,0,5,0
+2018,Santa Clara,dinotefuran,5,0,5,0
+2018,Santa Clara,imidacloprid,4,0,4,0
+2018,Santa Clara,thiamethoxam,5,5,0,100
+2018,Santa Cruz,acetamiprid,11,2,9,18.181818181818183
+2018,Santa Cruz,clothianidin,12,2,10,16.666666666666664
+2018,Santa Cruz,dinotefuran,12,1,11,8.333333333333332
+2018,Santa Cruz,thiamethoxam,12,8,4,66.66666666666666
+2018,Shasta,acetamiprid,2,0,2,0
+2018,Shasta,clothianidin,1,0,1,0
+2018,Solano,acetamiprid,23,0,23,0
+2018,Solano,clothianidin,24,0,24,0
+2018,Solano,dinotefuran,23,1,22,4.3478260869565215
+2018,Solano,imidacloprid,26,6,20,23.076923076923077
+2018,Solano,thiamethoxam,23,0,23,0
+2018,Sutter,acetamiprid,5,0,5,0
+2018,Sutter,clothianidin,4,0,4,0
+2018,Tulare,clothianidin,11,0,11,0
+2018,Tulare,imidacloprid,11,0,11,0
+2018,Tulare,thiamethoxam,11,0,11,0
+2018,Ventura,acetamiprid,5,0,5,0
+2018,Ventura,clothianidin,5,0,5,0
+2018,Ventura,dinotefuran,5,0,5,0
+2018,Ventura,thiamethoxam,5,0,5,0
+2018,Yolo,acetamiprid,32,1,31,3.125
+2018,Yolo,clothianidin,32,3,29,9.375
+2018,Yolo,dinotefuran,29,0,29,0
+2018,Yolo,imidacloprid,35,3,32,8.571428571428571
+2018,Yolo,thiamethoxam,29,2,27,6.896551724137931
+2018,Yuba,imidacloprid,6,0,6,0
+2019,Alameda,acetamiprid,2,0,2,0
+2019,Alameda,imidacloprid,7,3,4,42.857142857142854
+2019,Alameda,thiamethoxam,2,0,2,0
+2019,Calaveras,acetamiprid,1,0,1,0
+2019,Calaveras,clothianidin,1,0,1,0
+2019,Calaveras,dinotefuran,1,0,1,0
+2019,Calaveras,imidacloprid,1,0,1,0
+2019,Calaveras,thiamethoxam,1,0,1,0
+2019,Colusa,acetamiprid,4,0,4,0
+2019,Colusa,imidacloprid,12,0,12,0
+2019,Colusa,thiamethoxam,4,0,4,0
+2019,Contra Costa,acetamiprid,1,0,1,0
+2019,Contra Costa,imidacloprid,5,2,3,40
+2019,Contra Costa,thiamethoxam,1,0,1,0
+2019,El Dorado,acetamiprid,4,0,4,0
+2019,El Dorado,clothianidin,4,0,4,0
+2019,El Dorado,dinotefuran,4,0,4,0
+2019,El Dorado,imidacloprid,4,0,4,0
+2019,El Dorado,thiamethoxam,4,0,4,0
+2019,Fresno,clothianidin,3,0,3,0
+2019,Fresno,imidacloprid,3,0,3,0
+2019,Fresno,thiamethoxam,3,0,3,0
+2019,Imperial,acetamiprid,6,0,6,0
+2019,Imperial,imidacloprid,12,12,0,100
+2019,Imperial,thiamethoxam,6,0,6,0
+2019,Los Angeles,acetamiprid,16,4,12,25
+2019,Los Angeles,clothianidin,1,0,1,0
+2019,Los Angeles,dinotefuran,1,0,1,0
+2019,Los Angeles,imidacloprid,23,21,2,91.30434782608695
+2019,Los Angeles,thiamethoxam,16,4,12,25
+2019,Madera,acetamiprid,2,0,2,0
+2019,Madera,imidacloprid,4,0,4,0
+2019,Madera,thiamethoxam,2,0,2,0
+2019,Merced,acetamiprid,11,2,9,18.181818181818183
+2019,Merced,clothianidin,16,3,13,18.75
+2019,Merced,imidacloprid,7,1,6,14.285714285714285
+2019,Merced,thiamethoxam,3,0,3,0
+2019,Monterey,acetamiprid,21,15,6,71.42857142857143
+2019,Monterey,imidacloprid,27,27,0,100
+2019,Monterey,thiamethoxam,21,20,1,95.23809523809523
+2019,Orange,acetamiprid,17,0,17,0
+2019,Orange,imidacloprid,31,29,2,93.54838709677419
+2019,Orange,thiamethoxam,17,5,12,29.411764705882355
+2019,Placer,acetamiprid,5,0,5,0
+2019,Placer,clothianidin,2,0,2,0
+2019,Placer,dinotefuran,2,0,2,0
+2019,Placer,imidacloprid,20,14,6,70
+2019,Placer,thiamethoxam,5,0,5,0
+2019,Riverside,imidacloprid,16,16,0,100
+2019,Sacramento,acetamiprid,40,0,40,0
+2019,Sacramento,clothianidin,38,0,38,0
+2019,Sacramento,dinotefuran,38,0,38,0
+2019,Sacramento,imidacloprid,48,9,39,18.75
+2019,Sacramento,thiamethoxam,40,0,40,0
+2019,San Diego,acetamiprid,3,0,3,0
+2019,San Diego,imidacloprid,6,3,3,50
+2019,San Diego,thiamethoxam,3,0,3,0
+2019,San Joaquin,acetamiprid,6,0,6,0
+2019,San Joaquin,clothianidin,6,0,6,0
+2019,San Joaquin,dinotefuran,5,1,4,20
+2019,San Joaquin,imidacloprid,21,6,15,28.57142857142857
+2019,San Joaquin,thiamethoxam,5,0,5,0
+2019,San Luis Obispo,acetamiprid,4,3,1,75
+2019,San Luis Obispo,clothianidin,2,2,0,100
+2019,San Luis Obispo,dinotefuran,2,1,1,50
+2019,San Luis Obispo,imidacloprid,3,3,0,100
+2019,San Luis Obispo,thiamethoxam,4,4,0,100
+2019,Santa Barbara,acetamiprid,12,7,5,58.333333333333336
+2019,Santa Barbara,clothianidin,6,4,2,66.66666666666666
+2019,Santa Barbara,dinotefuran,6,1,5,16.666666666666664
+2019,Santa Barbara,imidacloprid,9,9,0,100
+2019,Santa Barbara,thiamethoxam,12,6,6,50
+2019,Santa Clara,acetamiprid,2,0,2,0
+2019,Santa Clara,imidacloprid,8,2,6,25
+2019,Santa Clara,thiamethoxam,2,0,2,0
+2019,Solano,acetamiprid,27,0,27,0
+2019,Solano,clothianidin,27,0,27,0
+2019,Solano,dinotefuran,27,2,25,7.4074074074074066
+2019,Solano,imidacloprid,27,9,18,33.33333333333333
+2019,Solano,thiamethoxam,27,2,25,7.4074074074074066
+2019,Stanislaus,acetamiprid,2,0,2,0
+2019,Stanislaus,imidacloprid,4,2,2,50
+2019,Stanislaus,thiamethoxam,2,0,2,0
+2019,Tulare,clothianidin,18,0,18,0
+2019,Tulare,imidacloprid,18,0,18,0
+2019,Tulare,thiamethoxam,18,0,18,0
+2019,Yolo,acetamiprid,40,0,40,0
+2019,Yolo,clothianidin,38,0,38,0
+2019,Yolo,dinotefuran,38,0,38,0
+2019,Yolo,imidacloprid,44,4,40,9.090909090909092
+2019,Yolo,thiamethoxam,40,0,40,0
+2020,Alameda,acetamiprid,4,0,4,0
+2020,Alameda,imidacloprid,4,3,1,75
+2020,Alameda,thiamethoxam,4,0,4,0
+2020,Butte,acetamiprid,5,0,5,0
+2020,Butte,imidacloprid,5,0,5,0
+2020,Butte,thiamethoxam,5,0,5,0
+2020,Colusa,acetamiprid,10,0,10,0
+2020,Colusa,imidacloprid,10,1,9,10
+2020,Colusa,thiamethoxam,10,0,10,0
+2020,Contra Costa,acetamiprid,5,0,5,0
+2020,Contra Costa,imidacloprid,5,3,2,60
+2020,Contra Costa,thiamethoxam,5,0,5,0
+2020,Imperial,acetamiprid,13,0,13,0
+2020,Imperial,clothianidin,12,6,6,50
+2020,Imperial,dinotefuran,13,1,12,7.6923076923076925
+2020,Imperial,thiamethoxam,13,3,10,23.076923076923077
+2020,Los Angeles,acetamiprid,15,0,15,0
+2020,Los Angeles,clothianidin,7,1,6,14.285714285714285
+2020,Los Angeles,dinotefuran,7,0,7,0
+2020,Los Angeles,imidacloprid,8,7,1,87.5
+2020,Los Angeles,thiamethoxam,15,2,13,13.333333333333334
+2020,Merced,acetamiprid,18,2,16,11.11111111111111
+2020,Merced,clothianidin,20,3,17,15
+2020,Merced,imidacloprid,9,1,8,11.11111111111111
+2020,Merced,thiamethoxam,9,0,9,0
+2020,Monterey,acetamiprid,20,12,8,60
+2020,Monterey,imidacloprid,20,19,1,95
+2020,Monterey,thiamethoxam,20,18,2,90
+2020,Orange,acetamiprid,15,0,15,0
+2020,Orange,imidacloprid,15,15,0,100
+2020,Orange,thiamethoxam,15,4,11,26.666666666666668
+2020,Placer,acetamiprid,8,0,8,0
+2020,Placer,imidacloprid,8,7,1,87.5
+2020,Placer,thiamethoxam,8,0,8,0
+2020,Riverside,acetamiprid,1,1,0,100
+2020,Riverside,clothianidin,1,1,0,100
+2020,Riverside,dinotefuran,1,0,1,0
+2020,Riverside,imidacloprid,14,12,2,85.71428571428571
+2020,Riverside,thiamethoxam,1,1,0,100
+2020,Sacramento,acetamiprid,8,0,8,0
+2020,Sacramento,clothianidin,5,0,5,0
+2020,Sacramento,dinotefuran,5,0,5,0
+2020,Sacramento,imidacloprid,18,3,15,16.666666666666664
+2020,Sacramento,thiamethoxam,8,0,8,0
+2020,San Joaquin,acetamiprid,1,0,1,0
+2020,San Joaquin,clothianidin,1,0,1,0
+2020,San Joaquin,imidacloprid,8,1,7,12.5
+2020,San Luis Obispo,acetamiprid,3,2,1,66.66666666666666
+2020,San Luis Obispo,imidacloprid,3,3,0,100
+2020,San Luis Obispo,thiamethoxam,3,3,0,100
+2020,Santa Barbara,acetamiprid,30,5,25,16.666666666666664
+2020,Santa Barbara,clothianidin,21,2,19,9.523809523809524
+2020,Santa Barbara,dinotefuran,21,6,15,28.57142857142857
+2020,Santa Barbara,imidacloprid,9,9,0,100
+2020,Santa Barbara,thiamethoxam,30,9,21,30
+2020,Santa Clara,acetamiprid,4,0,4,0
+2020,Santa Clara,imidacloprid,4,2,2,50
+2020,Santa Clara,thiamethoxam,4,0,4,0
+2020,Solano,acetamiprid,1,0,1,0
+2020,Solano,clothianidin,1,0,1,0
+2020,Solano,dinotefuran,1,0,1,0
+2020,Solano,thiamethoxam,1,0,1,0
+2020,Stanislaus,acetamiprid,5,0,5,0
+2020,Stanislaus,imidacloprid,5,4,1,80
+2020,Stanislaus,thiamethoxam,5,0,5,0
+2020,Sutter,acetamiprid,5,0,5,0
+2020,Sutter,imidacloprid,5,0,5,0
+2020,Sutter,thiamethoxam,5,0,5,0
+2020,Ventura,acetamiprid,5,0,5,0
+2020,Ventura,clothianidin,5,0,5,0
+2020,Ventura,dinotefuran,5,0,5,0
+2020,Ventura,thiamethoxam,5,1,4,20
+2020,Yolo,acetamiprid,10,0,10,0
+2020,Yolo,clothianidin,5,0,5,0
+2020,Yolo,dinotefuran,5,0,5,0
+2020,Yolo,imidacloprid,10,0,10,0
+2020,Yolo,thiamethoxam,10,0,10,0
