@@ -17,6 +17,10 @@ neonics_data <- surface_water_data %>%
   filter(chemical_name %in% neonics) %>% 
   mutate(sample_date = as_date(sample_date, format = "%m/%d/%Y")) %>% glimpse
 
+sites <- neonics_data %>%
+  select(site_code, site_name, latitude, longitude, county) %>% 
+  distinct
+
 ### Create tables to use in the just Imidocloprid neonics tableau --------------------------------------------
 
 # county summary table 
@@ -46,12 +50,32 @@ clean_neonics_wide_imidocloprid <- neonics_data %>%
   ungroup()%>% 
   group_by(year = year(sample_date), county) %>% 
   summarise(total_samples = n(), 
-            `Contains Imidacloprid` = sum(neonic),
-            `Does Not Contain Imidacloprid` = total_samples - `Contains Imidacloprid`,
-            `Percent Contining Imidacloprid` = (`Contains Imidacloprid`/ total_samples) * 100) %>% glimpse
+            `Imidacloprid Detected` = sum(neonic),
+            `No Imidacloprid Detected` = total_samples - `Imidacloprid Detected`,
+            `Percent Contining Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100) %>% glimpse
 
 
 write_csv(clean_neonics_wide_imidocloprid, "data/imidocloprid_clean_neonics_wide_by_year.csv")
+
+# site summary table 
+site_summaries_imidocloprid <- neonics_data %>% 
+  filter(chemical_name == "imidacloprid") %>% 
+  group_by(site_code, sample_date) %>%
+  mutate(neonic = concentration_ppb > 0) %>%
+  group_by(site_code, site_name) %>% 
+  summarise(min_date = min(sample_date), 
+            max_date = max(sample_date),
+            sites_date_range = paste(format(min_date, "%m/%d/%Y"), "to", 
+                               format(max_date, "%m/%d/%Y")), 
+            sites_number_samples_with_neonic = (sum(neonic)),
+            sites_total_samples = n(), 
+            `Count Contains Imidacloprid` = sum(neonic),
+            `Count Does Not Contain Imidacloprid` = sites_total_samples - `Count Contains Imidacloprid`,
+            `Sites Percent Contining Imidacloprid` = (`Count Contains Imidacloprid`/ sites_total_samples) * 100,
+            sites_contains_neonic = ifelse(sites_number_samples_with_neonic > 0, TRUE, FALSE)) %>% 
+    left_join(sites) %>% glimpse
+# Save county summary table 
+write_csv(site_summaries_imidocloprid, "data/imidocloprid_site_summary.csv")
 
 
 

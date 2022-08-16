@@ -1,4 +1,4 @@
-year,county,total_samples,Contains Imidacloprid,Does Not Contain Imidacloprid,Percent Contining Imidacloprid
+year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent Contining Imidacloprid
 2000,Orange,4,0,4,0
 2000,San Bernardino,2,0,2,0
 2001,Contra Costa,6,0,6,0
