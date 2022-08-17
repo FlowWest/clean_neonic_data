@@ -36,13 +36,26 @@ county_summaries_imidocloprid <- neonics_data %>%
             number_samples_with_neonic = (sum(neonic)),
             total_samples = n(),
             range = paste(min(concentration_ppb), "-", max(concentration_ppb))) %>% 
-  mutate(percent_samples_containing_a_neonic = round(number_samples_with_neonic/total_samples * 100, 2)) %>% glimpse
+  mutate(percent_samples_containing_a_neonic = round(number_samples_with_neonic/total_samples * 100, 2),
+         state = "California") %>% glimpse
 
 # Save county summary table 
 write_csv(county_summaries_imidocloprid, "data/imidocloprid_county_summary.csv")
 
 # For bar chart - create county summaries by year 
 # Create wide version for tableau 
+aggregated_across_counties_imidocloprid <- neonics_data %>% 
+  filter(chemical_name == "imidacloprid") %>% 
+  group_by(site_code, sample_date) %>%
+  mutate(neonic = concentration_ppb > 0) %>% 
+  ungroup()%>% 
+  group_by(year = year(sample_date)) %>% 
+  summarise(total_samples = n(), 
+            `Imidacloprid Detected` = sum(neonic),
+            `No Imidacloprid Detected` = total_samples - `Imidacloprid Detected`,
+            `Percent Contining Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100,
+            county = "All") %>% glimpse
+
 clean_neonics_wide_imidocloprid <- neonics_data %>% 
   filter(chemical_name == "imidacloprid") %>% 
   group_by(site_code, sample_date) %>%
@@ -52,8 +65,8 @@ clean_neonics_wide_imidocloprid <- neonics_data %>%
   summarise(total_samples = n(), 
             `Imidacloprid Detected` = sum(neonic),
             `No Imidacloprid Detected` = total_samples - `Imidacloprid Detected`,
-            `Percent Contining Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100) %>% glimpse
-
+            `Percent Contining Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100) %>% 
+  bind_rows(aggregated_across_counties_imidocloprid) %>% glimpse
 
 write_csv(clean_neonics_wide_imidocloprid, "data/imidocloprid_clean_neonics_wide_by_year.csv")
 
