@@ -1,4 +1,4 @@
-year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent Contining Imidacloprid
+year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent Contaning Imidacloprid
 2000,Orange,4,0,4,0
 2000,San Bernardino,2,0,2,0
 2001,Contra Costa,6,0,6,0
@@ -93,7 +93,7 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2014,Santa Barbara,13,13,0,100
 2014,Santa Clara,4,0,4,0
 2014,Stanislaus,3,2,1,66.66666666666666
-2014,Tulare,33,0,33,0
+2014,Tulare,34,0,34,0
 2014,Tuolumne,2,0,2,0
 2015,Imperial,9,8,1,88.88888888888889
 2015,Kings,3,1,2,33.33333333333333
@@ -101,7 +101,7 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2015,Mariposa,9,0,9,0
 2015,Monterey,57,43,14,75.43859649122807
 2015,Orange,29,18,11,62.06896551724138
-2015,Placer,17,5,12,29.411764705882355
+2015,Placer,15,4,11,26.666666666666668
 2015,Riverside,17,14,3,82.35294117647058
 2015,Sacramento,33,5,28,15.151515151515152
 2015,San Diego,5,1,4,20
@@ -113,7 +113,7 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2015,Solano,16,6,10,37.5
 2015,Stanislaus,3,3,0,100
 2015,Sutter,2,0,2,0
-2015,Tulare,34,0,34,0
+2015,Tulare,35,0,35,0
 2015,Tuolumne,3,0,3,0
 2015,Yolo,11,0,11,0
 2016,Alameda,2,1,1,50
@@ -127,7 +127,7 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2016,Modoc,3,0,3,0
 2016,Monterey,37,31,6,83.78378378378379
 2016,Orange,34,30,4,88.23529411764706
-2016,Placer,21,13,8,61.904761904761905
+2016,Placer,17,9,8,52.94117647058824
 2016,Riverside,16,13,3,81.25
 2016,Sacramento,55,12,43,21.818181818181817
 2016,San Diego,14,7,7,50
@@ -162,8 +162,8 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2017,San Joaquin,34,4,30,11.76470588235294
 2017,San Luis Obispo,30,8,22,26.666666666666668
 2017,San Mateo,9,0,9,0
-2017,Santa Barbara,28,18,10,64.28571428571429
-2017,Santa Clara,69,3,66,4.3478260869565215
+2017,Santa Barbara,23,18,5,78.26086956521739
+2017,Santa Clara,74,3,71,4.054054054054054
 2017,Santa Cruz,22,3,19,13.636363636363635
 2017,Solano,47,5,42,10.638297872340425
 2017,Sonoma,86,7,79,8.13953488372093
@@ -209,32 +209,58 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2019,Riverside,16,16,0,100
 2019,Sacramento,48,9,39,18.75
 2019,San Diego,6,3,3,50
-2019,San Joaquin,21,6,15,28.57142857142857
+2019,San Joaquin,26,7,19,26.923076923076923
 2019,San Luis Obispo,3,3,0,100
 2019,Santa Barbara,9,9,0,100
 2019,Santa Clara,8,2,6,25
-2019,Solano,27,9,18,33.33333333333333
+2019,Solano,28,10,18,35.714285714285715
 2019,Stanislaus,4,2,2,50
 2019,Tulare,18,0,18,0
-2019,Yolo,44,4,40,9.090909090909092
-2020,Alameda,4,3,1,75
+2019,Yolo,46,4,42,8.695652173913043
+2020,Alameda,8,6,2,75
 2020,Butte,5,0,5,0
 2020,Colusa,10,1,9,10
-2020,Contra Costa,5,3,2,60
-2020,Los Angeles,8,7,1,87.5
+2020,Contra Costa,7,4,3,57.14285714285714
+2020,Los Angeles,18,17,1,94.44444444444444
 2020,Merced,9,1,8,11.11111111111111
 2020,Monterey,20,19,1,95
-2020,Orange,15,15,0,100
-2020,Placer,8,7,1,87.5
-2020,Riverside,14,12,2,85.71428571428571
-2020,Sacramento,18,3,15,16.666666666666664
-2020,San Joaquin,8,1,7,12.5
+2020,Orange,35,33,2,94.28571428571428
+2020,Placer,15,14,1,93.33333333333333
+2020,Riverside,15,14,1,93.33333333333333
+2020,Sacramento,32,8,24,25
+2020,San Diego,2,1,1,50
+2020,San Joaquin,15,2,13,13.333333333333334
 2020,San Luis Obispo,3,3,0,100
 2020,Santa Barbara,9,9,0,100
-2020,Santa Clara,4,2,2,50
+2020,Santa Clara,8,4,4,50
+2020,Solano,2,2,0,100
 2020,Stanislaus,5,4,1,80
 2020,Sutter,5,0,5,0
 2020,Yolo,10,0,10,0
+2021,Alameda,8,4,4,50
+2021,Butte,5,0,5,0
+2021,Colusa,15,1,14,6.666666666666667
+2021,Contra Costa,5,3,2,60
+2021,Imperial,6,6,0,100
+2021,Los Angeles,24,20,4,83.33333333333334
+2021,Merced,5,0,5,0
+2021,Monterey,76,64,12,84.21052631578947
+2021,Orange,37,29,8,78.37837837837837
+2021,Placer,13,13,0,100
+2021,Riverside,10,10,0,100
+2021,Sacramento,32,12,20,37.5
+2021,San Benito,5,0,5,0
+2021,San Diego,3,2,1,66.66666666666666
+2021,San Joaquin,21,7,14,33.33333333333333
+2021,San Luis Obispo,17,13,4,76.47058823529412
+2021,San Mateo,1,1,0,100
+2021,Santa Barbara,40,35,5,87.5
+2021,Santa Clara,10,7,3,70
+2021,Santa Cruz,8,3,5,37.5
+2021,Solano,6,4,2,66.66666666666666
+2021,Stanislaus,3,3,0,100
+2021,Sutter,5,0,5,0
+2021,Yolo,6,0,6,0
 2000,All,6,0,6,0
 2001,All,34,0,34,0
 2002,All,59,0,59,0
@@ -246,10 +272,11 @@ year,county,total_samples,Imidacloprid Detected,No Imidacloprid Detected,Percent
 2011,All,199,86,113,43.21608040201005
 2012,All,224,98,126,43.75
 2013,All,234,107,127,45.72649572649573
-2014,All,258,114,144,44.18604651162791
-2015,All,318,136,182,42.76729559748428
-2016,All,383,185,198,48.30287206266319
+2014,All,259,114,145,44.01544401544402
+2015,All,317,135,182,42.586750788643535
+2016,All,379,181,198,47.75725593667546
 2017,All,742,203,539,27.358490566037734
 2018,All,297,146,151,49.158249158249156
-2019,All,360,172,188,47.77777777777778
-2020,All,160,90,70,56.25
+2019,All,368,174,194,47.28260869565217
+2020,All,233,142,91,60.94420600858369
+2021,All,361,237,124,65.65096952908587

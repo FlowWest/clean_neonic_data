@@ -3,7 +3,7 @@ library(lubridate)
 
 
 # Read in data from https://www.cdpr.ca.gov/docs/emon/surfwtr/surfcont.htm
-surface_water_data <- read_csv("data-raw/surf_water_2021.csv") 
+surface_water_data <- read_csv("data-raw/surf_water_2023.csv") 
 
 # View data 
 View(surface_water_data)
@@ -15,8 +15,10 @@ neonics <- c("imidacloprid", "acetamiprid", "clothianidin", "dinotefuran", "thia
 neonics_data <- surface_water_data %>%
   janitor::clean_names() %>%
   filter(chemical_name %in% neonics) %>% 
-  mutate(sample_date = as_date(sample_date, format = "%m/%d/%Y")) %>% glimpse
+  mutate(sample_date = as_date(sample_date, format = "%m/%d/%Y")) %>% 
+  filter(year(sample_date) <= 2021) |> glimpse()
 
+summary(neonics_data)
 sites <- neonics_data %>%
   select(site_code, site_name, latitude, longitude, county) %>% 
   distinct
@@ -53,7 +55,7 @@ aggregated_across_counties_imidocloprid <- neonics_data %>%
   summarise(total_samples = n(), 
             `Imidacloprid Detected` = sum(neonic),
             `No Imidacloprid Detected` = total_samples - `Imidacloprid Detected`,
-            `Percent Contining Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100,
+            `Percent Contaning Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100,
             county = "All") %>% glimpse
 
 clean_neonics_wide_imidocloprid <- neonics_data %>% 
@@ -65,7 +67,7 @@ clean_neonics_wide_imidocloprid <- neonics_data %>%
   summarise(total_samples = n(), 
             `Imidacloprid Detected` = sum(neonic),
             `No Imidacloprid Detected` = total_samples - `Imidacloprid Detected`,
-            `Percent Contining Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100) %>% 
+            `Percent Contaning Imidacloprid` = (`Imidacloprid Detected`/ total_samples) * 100) %>% 
   bind_rows(aggregated_across_counties_imidocloprid) %>% glimpse
 
 write_csv(clean_neonics_wide_imidocloprid, "data/imidocloprid_clean_neonics_wide_by_year.csv")
@@ -84,7 +86,7 @@ site_summaries_imidocloprid <- neonics_data %>%
             sites_total_samples = n(), 
             `Count Contains Imidacloprid` = sum(neonic),
             `Count Does Not Contain Imidacloprid` = sites_total_samples - `Count Contains Imidacloprid`,
-            `Sites Percent Contining Imidacloprid` = (`Count Contains Imidacloprid`/ sites_total_samples) * 100,
+            `Sites Percent Contaning Imidacloprid` = (`Count Contains Imidacloprid`/ sites_total_samples) * 100,
             sites_contains_neonic = ifelse(sites_number_samples_with_neonic > 0, TRUE, FALSE)) %>% 
     left_join(sites) %>% glimpse
 # Save county summary table 
@@ -128,7 +130,7 @@ clean_neonics <- neonics_data %>%
   summarise(total_samples = n(), 
             `Contains a Neonic` = sum(neonic),
             `Does Not Contain a Neonic` = total_samples - `Contains a Neonic`,
-            `Percent Contining Neonics` = (`Contains a Neonic`/ total_samples) * 100) %>% 
+            `Percent Contaning Neonics` = (`Contains a Neonic`/ total_samples) * 100) %>% 
   pivot_longer(-c(year, county), names_to = "neonic", values_to = "count") %>% 
   filter(neonic != "total_samples") %>% glimpse
 
@@ -141,10 +143,10 @@ clean_neonics_wide <- neonics_data %>%
   summarise(total_samples = n(), 
             `Contains a Neonic` = sum(neonic),
             `Does Not Contain a Neonic` = total_samples - `Contains a Neonic`,
-            `Percent Contining Neonics` = (`Contains a Neonic`/ total_samples) * 100) %>% glimpse
+            `Percent Contaning Neonics` = (`Contains a Neonic`/ total_samples) * 100) %>% glimpse
 
 
-# write_csv(clean_neonics_wide, "data/clean_neonics_wide_by_year.csv")
+write_csv(clean_neonics_wide, "data/clean_neonics_wide_by_year.csv")
 
 
 ### Additional QC and test tables ----------------------------------------------
